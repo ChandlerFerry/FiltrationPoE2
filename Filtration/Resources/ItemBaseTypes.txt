@@ -1,1455 +1,274 @@
-﻿A Dab of Ink
-A Mother's Parting Gift
-Abandoned Wealth
-Aberrant Fossil
-Abyssal Axe
-Abyssal Cry
-Abyssal Incubator
-Abyssal Sceptre
-Academy Map
-Acid Caverns Map
-Added Chaos Damage Support
-Added Cold Damage Support
-Added Fire Damage Support
-Added Lightning Damage Support
-Additional Accuracy Support
-Advanced Traps Support
-Aetheric Fossil
-Agate Amulet
-Akil's Prophecy
-Albino Rhoa Feather
-Alchemy Shard
-Alder Spiked Shield
-Alira's Amulet
-Alleyways Map
-Allflame
-Alloyed Spiked Shield
-Alluring Bounty
-Alone in the Darkness
-Alteration Shard
-Amber Amulet
-Amber Oil
-Ambush Boots
-Ambush Leaguestone
-Ambush Mitts
-Ambusher
-Amethyst Flask
-Amethyst Ring
-Ammonite Glyph
-Anarchy Leaguestone
-Anarchy's Price
-Ancestral Call Support
-Ancestral Club
-Ancestral Protector
-Ancestral Warchief
-Ancient City Map
-Ancient Gauntlets
-Ancient Greaves
-Ancient Orb
-Ancient Reliquary Key
-Ancient Shard
-Ancient Spirit Shield
-Ancient Sword
-Angelic Kite Shield
-Anger
-Animate Guardian
-Animate Weapon
-Ankh of Eternity
-Annulment Shard
-Antique Gauntlets
-Antique Greaves
-Antique Rapier
-Apex Rapier
-Apprentice Cartographer's Seal
-Apprentice Cartographer's Sextant
-Aquamarine Flask
-Arachnid Nest Map
-Arachnid Tomb Map
-Arc
-Arcade Map
-Arcane Surge Support
-Arcanist Gloves
-Arcanist Slippers
-Archon Kite Shield
-Archon Kite Shield Piece
-Arctic Armour
-Arctic Breath
-Arena Map
-Arena Plate
-Arid Lake Map
-Armageddon Brand
-Arming Axe
-Armourer's Scrap
-Armoury Map
-Arrogance of the Vaal
-Arsenal Map
-Ashen Wood Map
-Ashscale Talisman
-Assassin Bow
-Assassin's Boots
-Assassin's Favour
-Assassin's Garb
-Assassin's Mark
-Assassin's Mitts
-Astral Plate
-Atoll Map
-Atziri's Arsenal
-Audacity
-Auric Mace
-Aventail Helmet
-Avian Slippers
-Avian Twins Talisman
-Awl
-Azure Oil
-Azyran's Reward
-Baleful Gem
-Ball Lightning
-Bane
-Bane of the Loyal
-Barbed Club
-Barbute Helmet
-Baroque Round Shield
-Barrage
-Barrows Map
-Basalt Flask
-Baselard
-Basilica Map
-Basilisk Acid
-Basket Rapier
-Bastard Sword
-Battered Foil
-Battered Helm
-Battle Buckler
-Battle Hammer
-Battle Lamellar
-Battle Plate
-Battle Sword
-Bazaar Map
-Beach Map
-Bear Trap
-Beauty Through Death
-Behemoth Mace
-Belfry Map
-Berserk
-Bestel's Manuscript
-Bestiary Orb
-Beyond Leaguestone
-Binding Shard
-Birth of the Three
-Bismuth Flask
-Black Maw Talisman
-Black Oil
-Black Rose of Anarchy
-Black Venom
-Blacksmith's Whetstone
-Blade Flurry
-Blade Vortex
-Bladed Mace
-Bladefall
-Bladestorm
-Blasphemy Support
-Blast Rain
-Blastchain Mine Support
-Blessed Orb
-Blessing of Chayula
-Blessing of Esh
-Blessing of God
-Blessing of Tul
-Blessing of Uul-Netol
-Blessing of Xoph
-Blight
-Blind Support
-Blind Venture
-Blinder
-Blink Arrow
-Block Chance Reduction Support
-Blood and Sand
-Blood Magic Support
-Blood Rage
-Blood Raiment
-Blood Sceptre
-Bloodlines Leaguestone
-Bloodlust Support
-Bloodstained Fossil
-Blue Pearl Amulet
-Blunt Arrow Quiver
-Blunt Arrow Quiver Piece
-Boarding Axe
-Bodyswap
-Bog Map
-Bone Armour
-Bone Bow
-Bone Circlet
-Bone Crypt Map
-Bone Helmet
-Bone Offering
-Bone Spirit Shield
-Bonechill Support
-Bonespire Talisman
-Boon of Justice
-Boon of the First Ones
-Boot Blade
-Boot Knife
-Bottled Storm
-Bound Fossil
-Boundless Realms
-Bowyer's Dream
-Brand Recall
-Branded Kite Shield
-Brass Maul
-Brass Spirit Shield
-Breach Leaguestone
-Breach Ring
-Breakrib Talisman
-Broad Axe
-Broad Sword
-Broadhead Arrow Quiver
-Bronze Gauntlets
-Bronze Plate
-Bronze Sceptre
-Bronze Tower Shield
-Bronzescale Boots
-Bronzescale Gauntlets
-Brutality Support
-Buckskin Tower Shield
-Buckskin Tunic
-Burial Chambers Map
-Buried Treasure
-Burning Arrow
-Burning Blood
-Burning Damage Support
-Burnished Foil
-Burnished Spiked Shield
-Bust of Gaius Sentari
-Bust of Hector Titucius
-Bust of Marceus Lioneye
-Butcher Axe
-Butcher Knife
-Butcher Sword
-Cabalist Regalia
-Cage Map
-Caldera Map
-Calendar of Fortune
-Call to the First Ones
-Callous Mask
-Callous Mask Piece
-Canyon Map
-Captured Soul
-Captured Soul of Arachnoxia
-Captured Soul of Armala, the Widow
-Captured Soul of Drek, Apex Hunter
-Captured Soul of Erebix, Light's Bane
-Captured Soul of Gorulis, Will-Thief
-Captured Soul of Jorus, Sky's Edge
-Captured Soul of Lycius, Midnight's Howl
-Captured Soul of Mephod, the Earth Scorcher
-Captured Soul of Nassar, Lion of the Seas
-Captured Soul of Puruna, the Challenger
-Captured Soul of Sebbert, Crescent's Point
-Captured Soul of Shadow of the Vaal
-Captured Soul of Shock and Horror
-Captured Soul of Stalker of the Endless Dunes
-Captured Soul of Suncaller Asha
-Captured Soul of Terror of the Infinite Drifts
-Captured Soul of The Forgotten Soldier
-Captured Soul of Thraxia
-Captured Soul of Varhesh, Shimmering Aberration
-Carcass Map
-Cardinal Round Shield
-Carnal Armour
-Carnal Boots
-Carnal Mitts
-Carnal Sceptre
-Cartographer's Chisel
-Cartographer's Delight
-Cartographer's Incubator
-Cartographer's Seal
-Cartographer's Sextant
-Carved Wand
-Carving Knife
-Cast On Critical Strike Support
-Cast on Death Support
-Cast on Melee Kill Support
-Cast when Damage Taken Support
-Cast when Stunned Support
-Cast while Channelling
-Castle Ruins Map
-Cat's Paw
-Caustic Arrow
-Cedar Tower Shield
-Celestial Armoursmith's Incubator
-Celestial Blacksmith's Incubator
-Celestial Jeweller's Incubator
-Cells Map
-Cemetery Map
-Ceremonial Axe
-Ceremonial Kite Shield
-Ceremonial Mace
-Cerulean Ring
-Chain Belt
-Chain Boots
-Chain Gloves
-Chain Hauberk
-Chain Support
-Chainmail Doublet
-Chainmail Tunic
-Chainmail Vest
-Champion Kite Shield
-Chance to Bleed Support
-Chance to Flee Support
-Channel Map
-Chaos Orb
-Chaos Shard
-Chaotic Disposition
-Charan's Sword
-Charged Dash
-Charged Mines Support
-Charged Traps Support
-Chateau Map
-Chayula's Breachstone
-Chest Splitter
-Chestplate
-Chiming Spirit Shield
-Chitus' Plum
-Chromatic Orb
-Chrysalis Talisman
-Citadel Bow
-Citrine Amulet
-City Square Map
-Clarity
-Clasped Boots
-Clasped Mitts
-Clear Oil
-Cleave
-Cleaver
-Close Combat Support
-Close Helmet
-Cloth Belt
-Cloth Belt Piece
-Cluster Traps Support
-Clutching Talisman
-Cobalt Jewel
-Cobra Lash
-Cogs of Disruption
-Coiled Staff
-Cold Penetration Support
-Cold Snap
-Cold to Fire Support
-Colonnade Map
-Colossal Hybrid Flask
-Colossal Life Flask
-Colossal Mana Flask
-Colossal Tower Shield
-Colosseum Map
-Colosseum Plate
-Colossus Mallet
-Combustion Support
-Commander's Brigandine
-Composite Bow
-Compound Bow
-Compound Spiked Shield
-Concentrated Effect Support
-Conductive Quiver
-Conductivity
-Cone Helmet
-Conjurer Boots
-Conjurer Gloves
-Conjurer's Vestment
-Conquest Chainmail
-Consecrated Path
-Conservatory Map
-Contagion
-Controlled Destruction Support
-Conversion Trap
-Convocation
-Convoking Wand
-Copper Kris
-Copper Plate
-Copper Sword
-Copper Tower Shield
-Coral Amulet
-Coral Ring
-Coral Ruins Map
-Core Map
-Coronal Leather
-Coronal Maul
-Corroded Blade
-Corroded Fossil
-Corroded Tower Shield
-Corrugated Buckler
-Corsair Sword
-Courtesan Sword
-Courthouse Map
-Courtyard Map
-Coves Map
-Coveted Possession
-Crater Map
-Cremation
-Crescent Staff
-Crested Tower Shield
-Crimson Jewel
-Crimson Oil
-Crimson Raiment
-Crimson Round Shield
-Crimson Temple Map
-Crude Bow
-Crusader Boots
-Crusader Buckler
-Crusader Chainmail
-Crusader Gloves
-Crusader Helmet
-Crusader Plate
-Crypt Armour
-Crystal Belt
-Crystal Ore Map
-Crystal Sceptre
-Crystal Wand
-Cube Of Absorption
-Culling Strike Support
-Cured Quiver
-Curse On Hit Support
-Cursed Crypt Map
-Curved Blade
-Cutlass
-Cutthroat's Garb
-Cyclone
-Dagger Axe
-Damage on Full Life Support
-Dark Dreams
-Dark Forest Map
-Dark Pact
-Dark Temptation
-Darkwood Sceptre
-Dash
-Deadhand Talisman
-Deadly Ailments Support
-Deafening Essence
-Deafening Essence of Anger
-Deafening Essence of Anguish
-Deafening Essence of Contempt
-Deafening Essence of Doubt
-Deafening Essence of Dread
-Deafening Essence of Envy
-Deafening Essence of Fear
-Deafening Essence of Greed
-Deafening Essence of Hatred
-Deafening Essence of Loathing
-Deafening Essence of Misery
-Deafening Essence of Rage
-Deafening Essence of Scorn
-Deafening Essence of Sorrow
-Deafening Essence of Spite
-Deafening Essence of Suffering
-Deafening Essence of Torment
-Deafening Essence of Woe
-Deafening Essence of Wrath
-Deafening Essence of Zeal
-Death
-Death Bow
-Deathmark Support
-Decadent Incubator
-Decanter Spiritus
-Decay Support
-Decimation Bow
-Decorative Axe
-Decoy Totem
-Decurve Bow
-Deep One Talisman
-Deerskin Boots
-Deerskin Gloves
-Defiled Cathedral Map
-Deicide Mask
-Demigod's Wager
-Demon Dagger
-Demon's Horn
-Dense Fossil
-Desecrate
-Desert Brigandine
-Desert Map
-Desert Spring Map
-Deshret's Banner
-Despair
-Despot Axe
-Destined to Crumble
-Destiny Leather
-Destroyer Regalia
-Determination
-Detonate Dead
-Detonate Mines
-Devouring Totem
-Devout Chainmail
-Dialla's Subjugation
-Diamond Flask
-Diamond Ring
-Dig Map
-Discharge
-Discipline
-Divine Ire
-Divine Life Flask
-Divine Mana Flask
-Divine Orb
-Divine Vessel
-Diviner's Incubator
-Doedre's Madness
-Dominating Blow
-Domination Leaguestone
-Double Axe
-Double Claw
-Double Strike
-Dragon Mace
-Dragonbone Rapier
-Dragonscale Boots
-Dragonscale Doublet
-Dragonscale Gauntlets
-Dragoon Sword
-Dread Banner
-Dread Maul
-Dream Mace
-Driftwood Club
-Driftwood Maul
-Driftwood Sceptre
-Driftwood Spiked Shield
-Driftwood Wand
-Dual Strike
-Dunes Map
-Dungeon Map
-Dusk Blade
-Dying Anguish
-Eagle Claw
-Earth Drinker
-Earthquake
-Eber's Key
-Ebony Tower Shield
-Echoes of Love
-Eclipse Staff
-Eelskin Boots
-Eelskin Gloves
-Eelskin Tunic
-Efficacy Support
-Elder Sword
-Elder's Orb
-Eldritch Incubator
-Elegant Foil
-Elegant Ringmail
-Elegant Round Shield
-Elegant Sword
-Elemental Army Support
-Elemental Damage with Attacks Support
-Elemental Focus Support
-Elemental Hit
-Elemental Proliferation Support
-Elemental Weakness
-Elixir of Allure
-Embroidered Gloves
-Emperor of Purity
-Emperor's Luck
-Empower Support
-Enameled Buckler
-Enchanted Fossil
-Enchanted Incubator
-Encrusted Fossil
-Endurance Charge on Melee Stun Support
-Enduring Cry
-Energy Leech Support
-Enfeeble
-Engineer's Orb
-Engineer's Shard
-Engraved Greatsword
-Engraved Hatchet
-Engraved Wand
-Enhance Support
-Enlighten Support
-Esh's Breachstone
-Essence Drain
-Essence Leaguestone
-Essence of Anger
-Essence of Anguish
-Essence of Contempt
-Essence of Delirium
-Essence of Doubt
-Essence of Dread
-Essence of Envy
-Essence of Fear
-Essence of Greed
-Essence of Hatred
-Essence of Horror
-Essence of Hysteria
-Essence of Insanity
-Essence of Loathing
-Essence of Misery
-Essence of Rage
-Essence of Scorn
-Essence of Sorrow
-Essence of Spite
-Essence of Suffering
-Essence of Torment
-Essence of Woe
-Essence of Wrath
-Essence of Zeal
-Estoc
-Estuary Map
-Etched Greatsword
-Etched Hatchet
-Etched Kite Shield
-Eternal Burgonet
-Eternal Life Flask
-Eternal Mana Flask
-Eternal Orb
-Eternal Sword
-Ethereal Knives
-Exalted Orb
-Exalted Shard
-Excavation Map
-Explosive Arrow
-Explosive Trap
-Exquisite Blade
-Exquisite Leather
-Eye Gouger
-Eye of Conquest
-Eyes of Zeal
-Ezomyte Axe
-Ezomyte Blade
-Ezomyte Burgonet
-Ezomyte Dagger
-Ezomyte Spiked Shield
-Ezomyte Staff
-Ezomyte Tower Shield
-Faceted Fossil
-Factory Map
-Fancy Foil
-Fangjaw Talisman
-Faster Attacks Support
-Faster Casting Support
-Faster Projectiles Support
-Faun's Horn
-Feeding Frenzy Support
-Fencer Helm
-Feral Incubator
-Festival Mask
-Field Lamellar
-Fields Map
-Fiend Dagger
-Fine Incubator
-Fingerless Silk Gloves
-Fir Round Shield
-Fire Arrow Quiver
-Fire Penetration Support
-Fire Trap
-Fireball
-Firefly
-Firestorm
-Fishing Rod
-Fishscale Gauntlets
-Flame Dash
-Flame Surge
-Flame Totem
-Flameblast
-Flamethrower Trap
-Flammability
-Flanged Mace
-Flashpowder Keg
-Flaying Knife
-Flesh and Stone
-Flesh Offering
-Fleshripper
-Flicker Strike
-Flooded Mine Map
-Fluted Bascinet
-Footman Sword
-Forbidden Power
-Foreboding Incubator
-Forge of the Phoenix Map
-Fork Support
-Fortify Support
-Fossilised Incubator
-Fossilised Spirit Shield
-Foul Staff
-Fractured Fossil
-Fragment of the Chimera
-Fragment of the Hydra
-Fragment of the Minotaur
-Fragment of the Phoenix
-Fragmented Incubator
-Freezing Pulse
-Frenzy
-Fright Claw
-Fright Maul
-Frigid Fossil
-Frontier Leather
-Frost Blades
-Frost Bomb
-Frost Wall
-Frostbite
-Frostblink
-Frostbolt
-Full Chainmail
-Full Dragonscale
-Full Leather
-Full Plate
-Full Ringmail
-Full Scale Armour
-Full Wyrmscale
-Fungal Hollow Map
-Gardens Map
-Gavel
-Gemcutter's Incubator
-Gemcutter's Prism
-Gemcutter's Promise
-Gemini Claw
-Gemstone Sword
-General's Brigandine
-Generosity Support
-Geode Map
-Geomancer's Incubator
-Ghastly Eye Jewel
-Ghetto Map
-Giant Life Flask
-Giant Mana Flask
-Gift of the Gemling Queen
-Gilded Ambush Scarab
-Gilded Axe
-Gilded Bestiary Scarab
-Gilded Breach Scarab
-Gilded Buckler
-Gilded Cartography Scarab
-Gilded Divination Scarab
-Gilded Elder Scarab
-Gilded Fossil
-Gilded Harbinger Scarab
-Gilded Legion Scarab
-Gilded Perandus Scarab
-Gilded Reliquary Scarab
-Gilded Sallet
-Gilded Shaper Scarab
-Gilded Sulphite Scarab
-Gilded Torment Scarab
-Girded Tower Shield
-Glacial Cascade
-Glacial Hammer
-Glacier Map
-Gladiator Helmet
-Gladiator Plate
-Gladius
-Glass Shank
-Glassblower's Bauble
-Glimmer of Hope
-Glorious Leather
-Glorious Plate
-Glyphic Fossil
-Gnarled Branch
-Goat's Horn
-Goathide Boots
-Goathide Buckler
-Goathide Gloves
-Gold Amulet
-Gold Ring
-Golden Bracers
-Golden Buckler
-Golden Caligae
-Golden Flame
-Golden Hand
-Golden Hoop
-Golden Key
-Golden Kris
-Golden Mantle
-Golden Mask
-Golden Obi
-Golden Oil
-Golden Page
-Golden Plate
-Golden Wreath
-Goliath Gauntlets
-Goliath Greaves
-Gouger
-Grace
-Graceful Sword
-Grand Life Flask
-Grand Mana Flask
-Granite Flask
-Grappler
-Grave Knowledge
-Graveyard Map
-Great Crown
-Great Helmet
-Great Mallet
-Great White Claw
-Greater Life Flask
-Greater Mana Flask
-Greater Multiple Projectiles Support
-Greatwolf Talisman
-Greust's Necklace
-Grinning Fetish
-Gripped Gloves
-Grotto Map
-Ground Slam
-Grove Bow
-Gut Ripper
-Gutting Knife
-Haliotis Glyph
-Hallowed Hybrid Flask
-Hallowed Life Flask
-Hallowed Mana Flask
-Hammered Buckler
-Harbinger Bow
-Harbinger Map
-Harbinger's Orb
-Harbinger's Shard
-Harlequin Mask
-Harmonic Spirit Shield
-Harmony of Souls
-Harpy Rapier
-Haste
-Hatred
-Haunted Mansion Map
-Headman's Sword
-Headsman Axe
-Heart of the Gargoyle
-Heathen Wand
-Heavy Belt
-Heavy Quiver
-Heavy Strike
-Hellion's Paw
-Her Mask
-Herald of Agony
-Herald of Ash
-Herald of Ice
-Herald of Purity
-Herald of Thunder
-Heterochromia
-Hexclaw Talisman
-High-Impact Mine Support
-Highborn Bow
-Highborn Staff
-Highland Blade
-Hinekora's Hair
-Hollow Fossil
-Holy Chainmail
-Hook Sword
-Hope
-Horizon Shard
-Horned Sceptre
-Horned Talisman
-House of Mirrors
-Hubris
-Hubris Circlet
-Humility
-Hunter Hood
-Hunter's Resolve
-Hunter's Reward
-Hussar Brigandine
-Hydrascale Boots
-Hydrascale Gauntlets
-Hypnotic Eye Jewel
-Hypothermia Support
-Ice Bite Support
-Ice Crash
-Ice Nova
-Ice Shot
-Ice Spear
-Ice Trap
-Iceberg Map
-Icicle Mine
-Ignite Proliferation Support
-Imbued Wand
-Immolate Support
-Immortal Call
-Immortal Resolve
-Imp Dagger
-Impale Support
-Imperial Bow
-Imperial Buckler
-Imperial Claw
-Imperial Legacy
-Imperial Maul
-Imperial Skean
-Imperial Staff
-Imperial Staff Piece
-Imprinted Bestiary Orb
-Incinerate
-Increased Area of Effect Support
-Increased Critical Damage Support
-Increased Critical Strikes Support
-Increased Duration Support
-Infantry Brigandine
-Infernal Axe
-Infernal Blow
-Infernal Legion Support
-Infernal Sword
-Infested Valley Map
-Infused Channelling Support
-Infused Incubator
-Innervate Support
-Inspiration Support
-Intensify Support
-Invasion Leaguestone
-Inya's Key
-Iron Circlet
-Iron Gauntlets
-Iron Greaves
-Iron Grip Support
-Iron Hat
-Iron Mask
-Iron Ring
-Iron Sceptre
-Iron Staff
-Iron Will Support
-Ironscale Boots
-Ironscale Gauntlets
-Ironwood Buckler
-Item Quantity Support
-Item Rarity Support
-Ivory Bow
-Ivory Spirit Shield
-Ivory Temple Map
-Jack in the Box
-Jade Amulet
-Jade Chopper
-Jade Flask
-Jade Hatchet
-Jagged Foil
-Jagged Fossil
-Jagged Maul
-Jasper Axe
-Jasper Chopper
-Jet Amulet
-Jet Ring
-Jewelled Foil
-Jeweller's Orb
-Jingling Spirit Shield
-Journeyman Cartographer's Seal
-Journeyman Cartographer's Sextant
-Judgement Staff
-Jungle Valley Map
-Karui Axe
-Karui Chopper
-Karui Maul
-Karui Sceptre
-Kinetic Blast
-Kishara's Star
-Knockback Support
-Kraityn's Amulet
-Laboratory Map
-Labrys
-Lacerate
-Lacewood Spirit Shield
-Lacquered Buckler
-Lacquered Garb
-Lacquered Helmet
-Lair Map
-Lair of the Hydra Map
-Laminated Kite Shield
-Lancing Steel
-Lantador's Lost Love
-Lapis Amulet
-Large Hybrid Flask
-Large Life Flask
-Large Mana Flask
-Last Hope
-Lathi
-Latticed Ringmail
-Lava Chambers Map
-Lava Lake Map
-Layered Kite Shield
-Lead Sceptre
-Leap Slam
-Leather Belt
-Leather Cap
-Leather Hood
-Leatherscale Boots
-Left to Fate
-Legion Boots
-Legion Gloves
-Legion Hammer
-Legion Sword
-Legion Sword Piece
-Less Duration Support
-Lesser Multiple Projectiles Support
-Lesser Poison Support
-Leyline Map
-Life Gain on Hit Support
-Life Leech Support
-Light and Truth
-Light Brigandine
-Light Quiver
-Lighthouse Map
-Lightning Arrow
-Lightning Penetration Support
-Lightning Spire Trap
-Lightning Strike
-Lightning Tendrils
-Lightning Trap
-Lightning Warp
-Linden Kite Shield
-Lingering Remnants
-Lion Pelt
-Lion Sword
-Lithe Blade
-Lone Antler Talisman
-Long Bow
-Long Staff
-Longsword
-Longtooth Talisman
-Lookout Map
-Lordly Plate
-Loricated Ringmail
-Lost Worlds
-Loyalty
-Lucent Fossil
-Lucky Connections
-Lucky Deck
-Lunaris Circlet
-Lysah's Respite
-Maelström Staff
-Mage's Vestment
-Magistrate Crown
-Magma Orb
-Mahogany Tower Shield
-Maim Support
-Majestic Plate
-Malachai's Entrails
-Malachai's Heart
-Malachai's Lungs
-Malevolence
-Malformation Map
-Maligaro's Map
-Maligaro's Spike
-Mallet
-Mana Leech Support
-Mandible Talisman
-Maple Round Shield
-Maraketh Bow
-Marble Amulet
-Marshes Map
-Master Cartographer's Seal
-Master Cartographer's Sextant
-Mausoleum Map
-Mawr Blaidd
-Maze Map
-Maze of the Minotaur Map
-Meat Shield Support
-Meatgrinder
-Medicine Chest
-Medium Hybrid Flask
-Medium Life Flask
-Medium Mana Flask
-Melee Physical Damage Support
-Melee Splash Support
-Memory Fragment
-Memory Fragment I
-Memory Fragment II
-Memory Fragment III
-Memory Fragment IV
-Memory Fragment IX
-Memory Fragment V
-Memory Fragment VI
-Memory Fragment VII
-Memory Fragment VIII
-Memory Fragment X
-Merciless Armament
-Mesa Map
-Mesh Boots
-Mesh Gloves
-Metallic Fossil
-Miasmeter
-Midnight Blade
-Might is Right
-Military Staff
-Mind Cage
-Minefield Support
-Mineral Pools Map
-Minion Damage Support
-Minion Life Support
-Minion Speed Support
-Mirage Archer Support
-Mirror Arrow
-Mirror of Kalandra
-Mirror Shard
-Mirrored Spiked Shield
-Mitts
-Molten Shell
-Molten Strike
-Monkey Paw Talisman
-Monkey Twins Talisman
-Monochrome
-Moon Orb
-Moon Staff
-Moon Temple Map
-Moonstone Ring
-More is Never Enough
-Morning Star
-Mortal Grief
-Mortal Hope
-Mortal Ignorance
-Mortal Rage
-Mosaic Kite Shield
-Mud Geyser Map
-Multiple Totems Support
-Multiple Traps Support
-Multistrike Support
-Murder Boots
-Murder Mitts
-Murderous Eye Jewel
-Museum Map
-Muttering Essence
-Muttering Essence of Anger
-Muttering Essence of Contempt
-Muttering Essence of Fear
-Muttering Essence of Greed
-Muttering Essence of Hatred
-Muttering Essence of Sorrow
-Muttering Essence of Torment
-Muttering Essence of Woe
-Mysterious Incubator
-Nailed Fist
-Necromancer Circlet
-Necromancer Silks
-Necromancy Net
-Necropolis Map
-Nemesis Leaguestone
-Nightblade Support
-Nightmare Bascinet
-Nightmare Mace
-No Traces
-Noble Axe
-Noble Claw
-Noble Tricorne
-Nook's Crown
-Nubuck Boots
-Nubuck Gloves
-Oak Buckler
-Oak's Amulet
-Obscured Incubator
-Obsidian Key
-Occultist's Vestment
-Ochre Sceptre
-Offering to the Goddess
-Oiled Coat
-Oiled Vest
-Omen Wand
-Onslaught Leaguestone
-Onslaught Support
-Onyx Amulet
-Opal Ring
-Opal Sceptre
-Opal Wand
-Opalescent Oil
-Orb of Alchemy
-Orb of Alteration
-Orb of Annulment
-Orb of Augmentation
-Orb of Binding
-Orb of Chance
-Orb of Elemental Dispersion
-Orb of Fusing
-Orb of Horizons
-Orb of Regret
-Orb of Scouring
-Orb of Storms
-Orb of Transmutation
-Orchard Map
-Ornate Incubator
-Ornate Mace
-Ornate Ringmail
-Ornate Spiked Shield
-Ornate Sword
-Otherworldly Incubator
-Overgrown Ruin Map
-Overgrown Shrine Map
-Padded Jacket
-Padded Vest
-Pagan Wand
-Painted Buckler
-Painted Tower Shield
-Palace Map
-Park Map
-Paua Amulet
-Paua Ring
-Pecoraro
-Pen Map
-Penetrating Arrow Quiver
-Peninsula Map
-Perandus Coin
-Perandus Leaguestone
-Perfect Fossil
-Perfection
-Perforate
-Pernarch
-Pestilent Strike
-Petrified Club
-Phantasmagoria Map
-Phantom Mace
-Phase Run
-Physical to Lightning Support
-Pier Map
-Pierce Support
-Pig-Faced Bascinet
-Piledriver
-Pine Buckler
-Pinnacle Tower Shield
-Pit Map
-Pit of the Chimera Map
-Plague Bearer
-Plague Mask
-Plank Kite Shield
-Plate Vest
-Plateau Map
-Plated Gauntlets
-Plated Greaves
-Plated Maul
-Platinum Kris
-Platinum Sceptre
-Plaza Map
-Poacher's Mark
-Poignard
-Point Blank Support
-Poison Support
-Poleaxe
-Polished Ambush Scarab
-Polished Bestiary Scarab
-Polished Breach Scarab
-Polished Cartography Scarab
-Polished Divination Scarab
-Polished Elder Scarab
-Polished Harbinger Scarab
-Polished Legion Scarab
-Polished Perandus Scarab
-Polished Reliquary Scarab
-Polished Shaper Scarab
-Polished Spiked Shield
-Polished Sulphite Scarab
-Polished Torment Scarab
-Port Map
-Portal
-Portal Scroll
-Portal Shredder
-Potent Alchemical Resonator
-Potent Chaotic Resonator
-Power Charge On Critical Support
-Power Siphon
-Powerful Alchemical Resonator
-Powerful Chaotic Resonator
-Praetor Crown
-Precinct Map
-Precision
-Prehistoric Claw
-Pride
-Pride Before the Fall
-Pride of the First Ones
-Primal Incubator
-Primal Skull Talisman
-Prime Alchemical Resonator
-Prime Chaotic Resonator
-Primeval Rapier
-Primitive Alchemical Resonator
-Primitive Chaotic Resonator
-Primitive Staff
-Primordial Blocks Map
-Primordial Pool Map
-Primordial Staff
-Prismatic Fossil
-Prismatic Jewel
-Prismatic Ring
-Pristine Fossil
-Profane Wand
-Projectile Weakness
-Promenade Map
-Prong Dagger
-Prophecy
-Prophecy Leaguestone
-Prophecy Wand
-Prophet Crown
-Prosperity
-Pulverise Support
-Puncture
-Punishment
-Purifying Flame
-Purity of Elements
-Purity of Fire
-Purity of Ice
-Purity of Lightning
-Pyroclast Mine
-Quarterstaff
-Quartz Flask
-Quartz Sceptre
-Quartz Wand
-Quicksilver Flask
-Quilted Jacket
-Racecourse Map
-Rage Support
-Rain of Arrows
-Rain of Chaos
-Rain Tempter
-Raise Spectre
-Raise Zombie
-Rallying Cry
-Rampage Leaguestone
-Ramparts Map
-Ranged Attack Totem Support
-Ranger Bow
-Rats
-Raven Mask
-Rawhide Boots
-Rawhide Gloves
-Rawhide Tower Shield
-Reave
-Reaver Axe
-Reaver Helmet
-Reaver Sword
-Rebirth
-Reckoning
-Recurve Bow
-Redwood Spiked Shield
-Reef Map
-Reflex Bow
-Regal Orb
-Regal Shard
-Regicide Mask
-Reinforced Greaves
-Reinforced Iron Net
-Reinforced Kite Shield
-Reinforced Rope Net
-Reinforced Steel Net
-Reinforced Tower Shield
-Rejuvenation Totem
-Relic Chambers Map
-Remembrance
-Remnant of Corruption
-Residence Map
-Ribbon Spool
-Righteous Fire
-Ringmail Boots
-Ringmail Coat
-Ringmail Gloves
-Riposte
-Ritual Sceptre
-Riveted Boots
-Riveted Gloves
-Rock Breaker
-Rod of Detonation
-Roseus Glyph
-Rot Head Talisman
-Rotfeather Talisman
-Rotted Round Shield
-Royal Axe
-Royal Bow
-Royal Burgonet
-Royal Sceptre
-Royal Skean
-Royal Staff
-Ruby Amulet
-Ruby Flask
-Ruby Ring
-Rugged Quiver
-Runic Hatchet
-Rusted Ambush Scarab
-Rusted Bestiary Scarab
-Rusted Breach Scarab
-Rusted Cartography Scarab
-Rusted Coif
-Rusted Divination Scarab
-Rusted Elder Scarab
-Rusted Harbinger Scarab
-Rusted Hatchet
-Rusted Legion Scarab
-Rusted Perandus Scarab
-Rusted Reliquary Scarab
-Rusted Shaper Scarab
-Rusted Spike
-Rusted Sulphite Scarab
-Rusted Sword
-Rusted Torment Scarab
-Rustic Sash
-Ruthless Support
-Sabre
-Sacred Hybrid Flask
-Sacred Life Flask
-Sacred Mana Flask
-Sacrifice at Dawn
-Sacrifice at Dusk
-Sacrifice at Midnight
-Sacrifice at Noon
-Sacrificial Garb
-Sadist Garb
-Sage Wand
-Sage's Robe
-Sai
-Saint's Hauberk
-Saintly Chainmail
-Sallet
-Sambar Sceptre
-Sambodhi's Vow
-Samite Gloves
-Samite Helmet
-Samite Slippers
-Sanctified Fossil
-Sanctified Life Flask
-Sanctified Mana Flask
-Sand of Eternity
-Sapphire Flask
-Sapphire Ring
-Satin Gloves
-Satin Slippers
-Savant's Robe
-Scale Doublet
-Scale Vest
-Scare Mask
-Scarlet Raiment
-Scarlet Round Shield
-Scholar Boots
-Scholar of the Seas
-Scholar's Robe
-Scorched Fossil
-Scorching Ray
-Scourge Arrow
-Screaming Essence
-Screaming Essence of Anger
-Screaming Essence of Anguish
-Screaming Essence of Contempt
-Screaming Essence of Doubt
-Screaming Essence of Dread
-Screaming Essence of Envy
-Screaming Essence of Fear
-Screaming Essence of Greed
-Screaming Essence of Hatred
-Screaming Essence of Loathing
-Screaming Essence of Misery
-Screaming Essence of Rage
-Screaming Essence of Scorn
-Screaming Essence of Sorrow
-Screaming Essence of Spite
-Screaming Essence of Suffering
-Screaming Essence of Torment
-Screaming Essence of Woe
-Screaming Essence of Wrath
-Screaming Essence of Zeal
-Scriptorium Map
-Scroll Fragment
+﻿Blacksmith's Whetstone
+Arcanist's Etcher
 Scroll of Wisdom
-Searching Eye Jewel
-Searing Bond
-Secutor Helm
-Seismic Trap
-Sekhem
-Sekhema Feather
-Sentinel Jacket
-Sepia Oil
-Sepulchre Map
-Serpent Wand
-Serpentine Staff
-Serpentscale Boots
-Serpentscale Gauntlets
-Serrated Arrow Quiver
-Serrated Foil
+Chaos Orb
+Veiled Chaos Orb
+Armourer's Scrap
+Mirror of Kalandra
+Orb of Alchemy
+Orb of Chance
+Orb of Regret
+Orb of Unmaking
+Orb of Transmutation
+Orb of Alteration
+Orb of Scouring
+Exalted Orb
+Regal Orb
+Orb of Augmentation
+Portal Scroll
+Glassblower's Bauble
+Gemcutter's Prism
+Chromatic Orb
+Orb of Fusing
+Lesser Jeweller's Orb
+Greater Jeweller's Orb
+Perfect Jeweller's Orb
+Artificer's Orb
+Divine Orb
+Blessed Orb
+Sacred Orb
+Cartographer's Chisel
+Scroll Fragment
+Transmutation Shard
+Alteration Shard
+Alchemy Shard
+Chance Shard
+Albino Rhoa Feather
+Eternal Orb
+Imprint
+Vaal Orb
+Corrupt
+Corrupt
+Corrupt
+Perandus Coin
+Silver Coin
+Prophecy
+Bestiary Orb
+Imprinted Bestiary Orb
+Surveyor's Compass
+Charged Compass
+Prime Regrading Lens
+Secondary Regrading Lens
+Tempering Orb
+Tailoring Orb
+Essence of the Body
+Essence of the Mind
+Essence of Enhancement
+Essence of Torment
+Essence of Flames
+Essence of Ice
+Essence of Electricity
+Essence of Ruin
+Essence of Battle
+Essence of Sorcery
+Essence of Haste
+Essence of the Infinite
+Greater Essence of the Body
+Greater Essence of the Mind
+Greater Essence of Enhancement
+Greater Essence of Torment
+Greater Essence of Flames
+Greater Essence of Ice
+Greater Essence of Electricity
+Greater Essence of Ruin
+Greater Essence of Battle
+Greater Essence of Sorcery
+Greater Essence of Haste
+Greater Essence of the Infinite
+Simple Sextant
+Prime Sextant
+Awakened Sextant
+Elevated Sextant
+Apprentice Cartographer's Seal
+Journeyman Cartographer's Seal
+Master Cartographer's Seal
+Unshaping Orb
+Breach Splinter
+Splinter of Xoph
+Splinter of Tul
+Splinter of Esh
+Splinter of Uul-Netol
+Splinter of Chayula
+Blessing of Xoph
+Blessing of Tul
+Blessing of Esh
+Blessing of Uul-Netol
+Blessing of Chayula
+Timeless Karui Splinter
+Timeless Maraketh Splinter
+Timeless Eternal Empire Splinter
+Timeless Templar Splinter
+Timeless Vaal Splinter
+Simulacrum Splinter
+Orb of Annulment
+Orb of Binding
+Orb of Horizons
+Harbinger's Orb
+Engineer's Orb
+Infused Engineer's Orb
+Ancient Orb
+Fracturing Orb
+Annulment Shard
+Binding Shard
+Horizon Shard
+Harbinger's Shard
+Engineer's Shard
+Ancient Shard
+Chaos Shard
+Mirror Shard
+Exalted Shard
+Regal Shard
+Fracturing Shard
+Artificer's Shard
+Simple Rope Net
+Reinforced Rope Net
+Strong Rope Net
+Simple Iron Net
+Reinforced Iron Net
+Strong Iron Net
+Simple Steel Net
+Reinforced Steel Net
+Strong Steel Net
+Thaumaturgical Net
+Necromancy Net
+Vial of Dominance
+Vial of Summoning
+Vial of Awakening
+Vial of the Ritual
+Vial of Fate
+Vial of Consequence
+Vial of the Ghost
+Vial of Transcendence
+Vial of Sacrifice
+Scorched Fossil
+Frigid Fossil
+Metallic Fossil
+Jagged Fossil
+Aberrant Fossil
+Pristine Fossil
+Dense Fossil
+Corroded Fossil
+Prismatic Fossil
+Aetheric Fossil
 Serrated Fossil
-Seven Years Bad Luck
-Shabby Jerkin
-Shackled Boots
-Shadow Axe
-Shadow Sceptre
-Shagreen Boots
-Shagreen Gloves
-Shagreen Tower Shield
-Shaper's Orb
+Lucent Fossil
+Shuddering Fossil
+Bound Fossil
+Perfect Fossil
+Deft Fossil
+Fundamental Fossil
+Faceted Fossil
+Bloodstained Fossil
+Hollow Fossil
+Fractured Fossil
+Glyphic Fossil
+Tangled Fossil
+Sanctified Fossil
+Gilded Fossil
+Primitive Alchemical Resonator
+Potent Alchemical Resonator
+Powerful Alchemical Resonator
+Prime Alchemical Resonator
+Primitive Chaotic Resonator
+Potent Chaotic Resonator
+Powerful Chaotic Resonator
+Prime Chaotic Resonator
+Primitive Alchemical Resonator
+Potent Alchemical Resonator
+Powerful Alchemical Resonator
+Prime Alchemical Resonator
+Primitive Chaotic Resonator
+Potent Chaotic Resonator
+Powerful Chaotic Resonator
+Prime Chaotic Resonator
+Flesh Catalyst
+Neural Catalyst
+Carapace Catalyst
+Uul-Netol's Catalyst
+Xoph's Catalyst
+Tul's Catalyst
+Esh's Catalyst
+Chayula's Catalyst
+Reaver Catalyst
+Sibilant Catalyst
+Skittering Catalyst
+Adaptive Catalyst
+Time-light Scroll
+Fragmentation Scroll
+Deregulation Scroll
+Electroshock Scroll
+Haemocombustion Scroll
+Specularity Scroll
+Facetor's Lens
+Ritual Splinter
+Ritual Vessel
+Lesser Eldritch Ember
+Greater Eldritch Ember
+Grand Eldritch Ember
+Exceptional Eldritch Ember
+Lesser Eldritch Ichor
+Greater Eldritch Ichor
+Grand Eldritch Ichor
+Exceptional Eldritch Ichor
+Orb of Conflict
+Uncarved Gemstone
+MTX Wrapper
+MTX Wrapper
+MTX Wrapper
+MTX Wrapper
+MTX Wrapper
+Mystery Box
+Dance - Duelist
+Dance - Marauder
+Dance - Ranger
+Dance - Shadow
+Dance - Templar
+Dance - Witch
+Dance - Scion
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Wrapped Gift
+Wrapped Gift
+Wrapped Gift
+Wrapped Gift
+Wrapped Gift
+Wrapped Gift
+Wrapped Gift
+Wrapped Gift
+Wrapped Gift
+Wrapped Gift
+Wrapped Gift
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Hidden Item
+Keyblade
+Golden Blade
+Fishing Rod
+Golden Hoop
+Golden Obi
+Golden Flame
+Golden Wreath
+Golden Visage
+Golden Mantle
+Golden Caligae
+Golden Bracers
 Shaper's Orb (Tier 1)
 Shaper's Orb (Tier 2)
 Shaper's Orb (Tier 3)
@@ -1458,668 +277,2509 @@ Shaper's Orb (Tier 5)
 Shaper's Orb (Tier 6)
 Shaper's Orb (Tier 7)
 Shaper's Orb (Tier 8)
+Shaper's Orb (Tier 8)
+Shaper's Orb (Tier 9)
+Shaper's Orb (Tier 9)
 Shaper's Orb (Tier 9)
 Shaper's Orb (Tier 10)
-Shard of Fate
-Sharkskin Boots
-Sharkskin Gloves
-Sharkskin Tunic
-Sharktooth Arrow Quiver
-Sharktooth Claw
-Shattering Steel
-Shield Charge
-Shipyard Map
-Shock Nova
-Shockwave Support
-Shockwave Totem
-Shore Map
-Short Bow
-Shrapnel Shot
-Shrieking Essence
-Shrieking Essence of Anger
-Shrieking Essence of Anguish
-Shrieking Essence of Contempt
-Shrieking Essence of Doubt
-Shrieking Essence of Dread
-Shrieking Essence of Envy
-Shrieking Essence of Fear
-Shrieking Essence of Greed
-Shrieking Essence of Hatred
-Shrieking Essence of Loathing
-Shrieking Essence of Misery
-Shrieking Essence of Rage
-Shrieking Essence of Scorn
-Shrieking Essence of Sorrow
-Shrieking Essence of Spite
-Shrieking Essence of Suffering
-Shrieking Essence of Torment
-Shrieking Essence of Woe
-Shrieking Essence of Wrath
-Shrieking Essence of Zeal
-Shrine Map
-Shuddering Fossil
-Siege Axe
-Siege Ballista
-Siege Helmet
-Siege Map
-Sign of Purity
-Silk Gloves
-Silk Robe
-Silk Slippers
-Silken Garb
-Silken Hood
-Silken Vest
-Silken Wrap
-Silver Coin
-Silver Flask
-Silver Key
-Silver Locket
-Silver Oil
-Simple Iron Net
-Simple Robe
-Simple Rope Net
-Simple Steel Net
-Singular Incubator
-Sinner Tricorne
-Siphoning Trap
-Skean
-Skinning Knife
-Skittering Incubator
-Slaughter Knife
-Sledgehammer
-Sleek Coat
-Slink Boots
-Slink Gloves
-Slower Projectiles Support
-Small Hybrid Flask
-Small Life Flask
-Small Mana Flask
-Smallsword
-Smite
-Smoke Mine
-Sniper Bow
-Solar Maul
-Solaris Circlet
-Soldier Boots
-Soldier Gloves
-Soldier Helmet
-Soldier's Brigandine
-Sorcerer Boots
-Sorcerer Gloves
-Soulrend
-Sovereign Spiked Shield
-Spark
-Sparkling Claw
-Spectral Axe
-Spectral Shield Throw
-Spectral Sword
-Spectral Throw
-Spell Cascade Support
-Spell Echo Support
-Spell Totem Support
-Spider Forest Map
-Spider Lair Map
-Spidersilk Robe
-Spike-Point Arrow Quiver
-Spiked Bundle
-Spiked Club
-Spiked Gloves
-Spiked Round Shield
-Spine Bow
-Spinefuse Talisman
-Spiny Maul
-Spiny Round Shield
-Spiraled Foil
-Spiraled Wand
-Spirit Offering
-Splendid Round Shield
-Splinter
-Splinter of Chayula
-Splinter of Esh
-Splinter of Tul
-Splinter of Uul-Netol
-Splinter of Xoph
-Splintered Tower Shield
-Split Arrow
-Splitnewt Talisman
-Stacked Deck
-Stag Sceptre
-Static Strike
-Stealth Boots
-Stealth Gloves
-Steel Circlet
-Steel Gauntlets
-Steel Greaves
-Steel Kite Shield
-Steel Ring
-Steelhead
-Steelscale Boots
-Steelscale Gauntlets
-Steelskin
-Steelwood Bow
-Stibnite Flask
-Stiletto
-Stone Axe
-Stone Hammer
-Stone of Passage
-Storm Barrier Support
-Storm Blade
-Storm Brand
-Storm Burst
-Storm Call
-Stormblast Mine
-Strand Map
-Strapped Boots
-Strapped Leather
-Strapped Mitts
-Strong Iron Net
-Strong Rope Net
-Strong Steel Net
-Struck by Lightning
-Studded Belt
-Studded Round Shield
-Stun Support
-Stygian Vise
-Sulphur Flask
-Sulphur Vents Map
-Summit Map
-Summon Carrion Golem
-Summon Chaos Golem
-Summon Flame Golem
-Summon Holy Relic
-Summon Ice Golem
-Summon Lightning Golem
-Summon Phantasm on Kill Support
-Summon Raging Spirit
-Summon Skeletons
-Summon Skitterbots
-Summon Stone Golem
-Sun Leather
-Sun Orb
-Sun Plate
-Sunder
-Sundering Axe
-Sunken City Map
-Supreme Spiked Shield
-Sweep
-Swift Affliction Support
-Swift Assembly Support
-Talisman Leaguestone
-Talon Axe
-Tangled Fossil
-Tarnished Spirit Shield
-Teak Round Shield
-Teal Oil
-Tectonic Slam
-Tempered Foil
-Tempest Leaguestone
-Tempest Shield
-Temple Map
-Temporal Chains
-Tenderizer
-Terrace Map
-Terror Claw
-Terror Maul
-Thaumaturge's Incubator
-Thaumaturgical Net
-Thaumetic Emblem
-Thaumetic Sulphite
-The Admirer
-The Aesthete
-The Archmage's Right Hand
-The Arena Champion
-The Army of Blood
-The Artist
-The Avenger
-The Bargain
-The Battle Born
-The Beast
-The Betrayal
-The Black Flag
-The Blazing Fire
-The Body
-The Breach
-The Brittle Emperor
-The Cacophony
-The Calling
-The Carrion Crow
-The Cartographer
-The Cataclysm
-The Catalyst
-The Celestial Justicar
-The Celestial Stone
-The Chains that Bind
-The Coming Storm
-The Conduit
-The Cursed King
-The Damned
-The Dapper Prodigy
-The Dark Mage
-The Darkest Dream
-The Deal
-The Deceiver
-The Deep Ones
-The Demon
-The Demoness
-The Devastator
-The Doctor
-The Doppelganger
-The Dragon
-The Dragon's Heart
-The Dreamer
-The Dreamland
-The Drunken Aristocrat
-The Encroaching Darkness
-The Endless Darkness
-The Endurance
-The Enlightened
-The Ethereal
-The Explorer
-The Eye of Desire
-The Eye of Fury
-The Eye of Terror
-The Eye of the Dragon
-The Fathomless Depths
-The Feast
-The Fiend
-The Fletcher
-The Flora's Gift
-The Fool
-The Formless Sea
-The Forsaken
-The Fox
-The Gambler
-The Garish Power
-The Gemcutter
-The Gentleman
-The Gladiator
-The Golden Era
-The Hale Heart
-The Harvester
-The Hermit
-The Heroic Shot
-The Hoarder
-The Hunger
-The Immortal
-The Incantation
-The Innocent
-The Inoculated
-The Insatiable
-The Inventor
-The Iron Bard
-The Jester
-The Jeweller's Boon
-The Journey
-The King's Blade
-The King's Heart
-The Landing
-The Last One Standing
-The Lich
-The Life Thief
-The Lion
-The Lord in Black
-The Lord of Celebration
-The Lover
-The Lunaris Priestess
-The Mad King
-The Master
-The Master Artisan
-The Mayor
-The Mercenary
-The Messenger
-The Metalsmith's Gift
-The Mountain
-The Nurse
-The Oath
-The Obscured
-The Offering
-The Old Man
-The One With All
-The Opulent
-The Pack Leader
-The Pact
-The Penitent
-The Poet
-The Polymath
-The Porcupine
-The Price of Loyalty
-The Price of Protection
-The Primordial
-The Professor
-The Puzzle
-The Queen
-The Rabid Rhoa
-The Realm
-The Risk
-The Rite of Elements
-The Road to Power
-The Ruthless Ceinture
-The Sacrifice
-The Saint's Treasure
-The Samurai's Eye
-The Scarred Meadow
-The Scavenger
-The Scholar
-The Seeker
-The Sephirot
+Shaper's Orb (Tier 10)
+Shaper's Orb (Tier 10)
+Elder's Orb
 The Shaper's Key
-The Shaper's Realm
-The Side Quest
-The Sigil
-The Siren
-The Skeleton
-The Soul
-The Spark and the Flame
-The Spoiled Prince
-The Staff of Purity
-The Standoff
-The Stormcaller
-The Summoner
-The Sun
-The Surgeon
-The Surveyor
-The Survivalist
-The Sword King's Salute
-The Teardrop
-The Thaumaturgist
-The Throne
-The Tower
-The Traitor
-The Trial
-The Twilight Moon
-The Twins
-The Tyrant
-The Undaunted
-The Undisputed
-The Union
-The Valkyrie
-The Valley of Steel Boxes
-The Vast
-The Visionary
-The Void
-The Warden
-The Warlord
-The Watcher
-The Web
-The Wilted Rose
-The Wind
-The Witch
-The Wolf
-The Wolf's Legacy
-The Wolf's Shadow
-The Wolven King's Bite
-The Wolverine
-The World Eater
-The Wrath
-The Wretched
-Thicket Bow
-Thicket Map
-Thief's Garb
-Thirst for Knowledge
-Thorium Spirit Shield
-Thorn Rapier
-Three Faces in the Dark
-Three Hands Talisman
-Three Rat Talisman
-Three Voices
-Thresher Claw
-Throat Stabber
-Thunderous Skies
-Tiger Hook
-Tiger Sword
-Tiger's Paw
-Timber Axe
-Time-Lost Incubator
-Time-Lost Relic
-Timeless Eternal Empire Emblem
-Timeless Eternal Empire Splinter
-Timeless Karui Emblem
-Timeless Karui Splinter
-Timeless Maraketh Emblem
-Timeless Maraketh Splinter
-Timeless Templar Emblem
-Timeless Templar Splinter
-Timeless Vaal Emblem
-Timeless Vaal Splinter
-Timeworn Claw
-Timeworn Reliquary Key
-Titan Gauntlets
-Titan Greaves
-Titanium Spirit Shield
-Tolman's Bracelet
-Tomahawk
-Topaz Flask
-Topaz Ring
-Torment Leaguestone
-Tornado Shot
-Tornado Wand
-Torture Cage
-Totemic Maul
-Tower Key
-Tower Map
-Toxic Rain
-Toxic Sewer Map
-Tranquillity
-Transmutation Shard
-Trap and Mine Damage Support
-Trap Support
-Trapper Boots
-Trapper Mitts
-Trarthan Powder
-Treasure Hunter
-Treasure Key
-Tribal Circlet
-Tribal Club
-Tribal Maul
-Tricorne
-Trisula
-Triumphant Lamellar
-Tropical Island Map
-Tukohama's Tooth
-Tul's Breachstone
-Turn the Other Cheek
-Turquoise Amulet
-Twig Spirit Shield
-Twilight Blade
-Twin Claw
-Two-Handed Sword
-Two-Point Arrow Quiver
-Two-Stone Ring
-Two-Toned Boots
-Tyrant's Sekhem
-Unbound Ailments Support
-Underground River Map
-Underground Sea Map
-Undying Flesh Talisman
-Unearth
-Unleash Support
-Unset Ring
-Unshaping Orb
-Ursine Pelt
-Uul-Netol's Breachstone
-Vaal Ancestral Warchief
-Vaal Arc
-Vaal Axe
-Vaal Blade
-Vaal Blade Vortex
-Vaal Blight
-Vaal Breach
-Vaal Buckler
-Vaal Burning Arrow
-Vaal Clarity
-Vaal Claw
-Vaal Cold Snap
-Vaal Cyclone
-Vaal Detonate Dead
-Vaal Discipline
-Vaal Double Strike
-Vaal Earthquake
-Vaal Fireball
-Vaal Flameblast
-Vaal Gauntlets
-Vaal Glacial Hammer
-Vaal Grace
-Vaal Greatsword
-Vaal Greaves
-Vaal Ground Slam
-Vaal Haste
-Vaal Hatchet
-Vaal Ice Nova
-Vaal Immortal Call
-Vaal Impurity of Fire
-Vaal Impurity of Ice
-Vaal Impurity of Lightning
-Vaal Lightning Strike
-Vaal Lightning Trap
-Vaal Lightning Warp
-Vaal Mask
-Vaal Molten Shell
-Vaal Orb
-Vaal Power Siphon
-Vaal Pyramid Map
-Vaal Rain of Arrows
-Vaal Rapier
-Vaal Reave
-Vaal Regalia
-Vaal Righteous Fire
-Vaal Sceptre
-Vaal Spark
-Vaal Spectral Throw
-Vaal Spirit Shield
-Vaal Storm Call
-Vaal Summon Skeletons
-Vaal Temple Map
-Valako's Jaw
-Vanguard Belt
-Vanity
-Variscite Blade
-Varnished Coat
-Vault Map
-Velvet Gloves
-Velvet Slippers
-Vengeance
-Venom Gyre
-Verdant Oil
-Vermillion Ring
-Vial of Awakening
-Vial of Consequence
-Vial of Dominance
-Vial of Fate
-Vial Of Power
-Vial of Sacrifice
-Vial of Summoning
-Vial of the Ghost
-Vial of the Ritual
-Vial of Transcendence
-Vicious Projectiles Support
-Vigilant Strike
-Vile Power
-Vile Staff
-Vile Toxins Support
-Villa Map
-Vine Circlet
-Vinia's Token
-Violet Oil
-Viper Strike
-Viridian Jewel
-Visored Sallet
-Vitality
-Void Axe
-Void Manipulation Support
-Void of the Elements
-Void Sceptre
+Memory Fragment I
+Memory Fragment II
+Memory Fragment III
+Memory Fragment IV
+Memory Fragment V
+Memory Fragment VI
+Memory Fragment VII
+Memory Fragment VIII
+Memory Fragment IX
+Memory Fragment X
+Memory Fragment XI
+Memory Fragment XII
+Memory Fragment XIII
+Memory Fragment XIV
+Memory Fragment XV
+Book of Skill
+Book of Skill
+Book of Regrets
+Book of Skill
+Book of Regrets
+Book of Skill
+Book of Skill
+Book of Skill
+Book of Skill
+Book of Skill
+Book of Skill
+Book of Skill
+Book of Skill
+Book of Regression
+Atlas Book of Skill
+Atlas Book of Skill
+Atlas Book of Skill
+Atlas Book of Skill
+Atlas Book of Skill
+Atlas Book of Skill
+Book of Knowledge I
+Book of Knowledge II
+Book of Knowledge III
+Book of Knowledge IV
+Book of Knowledge V
+Book of Knowledge VI
+Book of Knowledge VII
+Book of Knowledge VIII
+Book of Knowledge IX
+Book of Knowledge X
+Book of Knowledge XI
+Book of Knowledge XII
+Book of Knowledge XIII
+Book of Knowledge XIV
+Book of Knowledge XV
+Otherworldly Book of Knowledge I
+Otherworldly Book of Knowledge II
+Otherworldly Book of Knowledge III
+Otherworldly Book of Knowledge IV
+Ritualistic Book of Knowledge I
+Ritualistic Book of Knowledge II
+Ritualistic Book of Knowledge III
+Ritualistic Book of Knowledge IV
+Runic Book of Knowledge I
+Runic Book of Knowledge II
+Runic Book of Knowledge III
+Runic Book of Knowledge IV
+Deranging Book of Knowledge I
+Deranging Book of Knowledge II
+Deranging Book of Knowledge III
+Deranging Book of Knowledge IV
+Vanquisher's Book of Knowledge I
+Vanquisher's Book of Knowledge II
+Vanquisher's Book of Knowledge III
+Vanquisher's Book of Knowledge IV
+Vanquisher's Book of Knowledge V
+Arbiter's Book of Knowledge I
+Arbiter's Book of Knowledge II
+Arbiter's Book of Knowledge III
+Arbiter's Book of Knowledge IV
+Vault Key
+Blood Crucible
+Dream Furnace
+Viscera Cauldron
+Sentinel Controller
+Master Key
+Stone of Passage
+Flashpowder Keg
+Ice Nova
+Leap Slam
+Shield Charge
+Raise Zombie
+Detonate Dead
 Volatile Dead
-Volatile Power
-Volcano Map
-Volkuur's Key
-Volley Support
-Vortex
-Vulnerability
-Wailing Essence
-Wailing Essence of Anger
-Wailing Essence of Anguish
-Wailing Essence of Contempt
-Wailing Essence of Doubt
-Wailing Essence of Fear
-Wailing Essence of Greed
-Wailing Essence of Hatred
-Wailing Essence of Loathing
-Wailing Essence of Rage
-Wailing Essence of Sorrow
-Wailing Essence of Spite
-Wailing Essence of Suffering
-Wailing Essence of Torment
-Wailing Essence of Woe
-Wailing Essence of Wrath
-Wailing Essence of Zeal
-Walnut Spirit Shield
-War Axe
-War Banner
-War Buckler
-War Hammer
-War Plate
-War Sword
-Warbands Leaguestone
-Warlord's Mark
-Waste Pool Map
-Wasteland Map
-Waterways Map
-Wave of Conviction
-Waxed Garb
-Wealth and Power
-Weeping Essence
-Weeping Essence of Anger
-Weeping Essence of Contempt
-Weeping Essence of Doubt
-Weeping Essence of Fear
-Weeping Essence of Greed
-Weeping Essence of Hatred
-Weeping Essence of Rage
-Weeping Essence of Sorrow
-Weeping Essence of Suffering
-Weeping Essence of Torment
-Weeping Essence of Woe
-Weeping Essence of Wrath
-Wereclaw Talisman
-Whalebone Rapier
-Wharf Map
-Whirling Blades
-Whispering Essence
-Whispering Essence of Contempt
-Whispering Essence of Greed
-Whispering Essence of Hatred
-Whispering Essence of Woe
-Whispering Incubator
-Widowsilk Robe
-Wild Leather
-Wild Strike
-Wings of Vastiri
-Winter Orb
+Flicker Strike
+Spark
+Ice Spear
+Spectre: {0}
+Frost Wall
+Shock Nova
+Temporal Chains
+Enfeeble
+Sniper's Mark
+Despair
+Lightning Warp
+Skeletal Warrior
+Skeletal Reaver
+Skeletal Brute
+Skeletal Sniper
+Skeletal Frost Mage
+Skeletal Storm Mage
+Skeletal Arsonist
+Skeletal Cleric
+Armour Breaker
+Rain of Arrows
+Firestorm
+Falling Thunder
+Power Siphon
+Lightning Arrow
+Arc
+Discipline
+Shockwave Totem
+Arctic Armour
+Flammability
+Hypothermia
+Conductivity
+Incinerate
+Purity of Fire
+Purity of Ice
+Purity of Lightning
+Flameblast
+Barrage
+Ball Lightning
+Bone Offering
+Herald of Ash
+Herald of Ice
+Herald of Thunder
+Blasphemy
+Infernal Cry
+Seismic Cry
+Rolling Magma
+Frost Bomb
+Orb of Storms
+Earthquake
+Contagion
 Wither
-Withering Step
-Withering Touch Support
-Wolf Pelt
-Woodful Staff
-Woodsplitter
-Wool Gloves
-Wool Shoes
-Wraith Axe
-Wraith Sword
-Wrapped Boots
-Wrapped Mitts
-Wrath
-Wrist Chopper
-Writhing Talisman
-Wyrm Mace
-Wyrmbone Rapier
-Wyrmscale Boots
-Wyrmscale Doublet
-Wyrmscale Gauntlets
-Xoph's Breachstone
-Yew Spirit Shield
+Essence Drain
+Sunder
+Frostbolt
+Dark Pact
+Vulnerability
+Soulrend
+Close Combat
+Plague Bearer
+Artillery Ballista
+Earthshatter
+Sigil of Power
+Flame Wall
+Hexblast
+Exsanguinate
+Reap
+Boneshatter
+Eye of Winter
+Tornado
+Lightning Conduit
+Galvanic Field
+Volcanic Fissure
+Rapid Assault
+Impale
+Puncture
+Whirling Slash
+Spearfield
+Demon Magus
+Storm Spear
+Blazing Lance
+[DNT] Axe Chop
+[DNT] Axe Slash
+Whirling Assault
+Rolling Slam
+Escape Shot
+Supercharged Slam
+[DNT] Evasive Strike
+Wind Blast
+[DNT] Blade Dance
+[DNT] Claw Rake
+[DNT] Spinning Flail
+[DNT] Axe Execute
+[DNT] Axe Leaping Chop
+[DNT] Axe Whirling Slash
+[DNT] Axe Raised Chop
+[DNT] Axe Heavy Cleave
+[DNT] Knife Flip
+Wave of Frost
+[DNT] Sword Lunge
+[DNT] Sword Leap Slash
+Ice Strike
+Maul
+Chaos Bolt
+Firebolt
+Timeless Jewel
+Ruby
+Emerald
+Sapphire
+Diamond
+Time-Lost Ruby
+Time-Lost Emerald
+Time-Lost Sapphire
+Time-Lost Diamond
+Desert Rune
+Glacial Rune
+Storm Rune
+Iron Rune
+Body Rune
+Mind Rune
+Rebirth Rune
+Inspiration Rune
+Stone Rune
+Vision Rune
+Soul Core of Tacati
+Soul Core of Opiloti
+Soul Core of Jiquani
+Soul Core of Zalatl
+Soul Core of Citaqualotl
+Soul Core of Puhuarte
+Soul Core of Tzamoto
+Soul Core of Xopec
+Soul Core of Azcapa
+Soul Core of Topotante
+Soul Core of Quipolatl
+Soul Core of Ticaba
+Soul Core of Atmohua
+Soul Core of Cholotl
+Soul Core of Zantipi
+Waystone (Tier 1)
+Waystone (Tier 2)
+Waystone (Tier 3)
+Waystone (Tier 4)
+Waystone (Tier 5)
+Waystone (Tier 6)
+Waystone (Tier 7)
+Waystone (Tier 8)
+Waystone (Tier 9)
+Waystone (Tier 10)
+Waystone (Tier 11)
+Waystone (Tier 12)
+Waystone (Tier 13)
+Waystone (Tier 14)
+Waystone (Tier 15)
+Waystone (Tier 16)
+Sacrifice at Midnight
+Sacrifice at Dawn
+Sacrifice at Noon
+Sacrifice at Dusk
+Mortal Rage
+Mortal Hope
+Mortal Ignorance
+Mortal Grief
+Eber's Key
 Yriel's Key
-Zealot Boots
-Zealot Gloves
-Zealot Helmet
-Zealotry
-Zodiac Leather
+Inya's Key
+Volkuur's Key
+Fragment of the Phoenix
+Fragment of the Minotaur
+Fragment of the Chimera
+Fragment of the Hydra
+Divine Vessel
+Sacrifice at Midnight
+Sacrifice at Dawn
+Sacrifice at Noon
+Sacrifice at Dusk
+Sacrifice Set
+Mortal Rage
+Mortal Hope
+Mortal Ignorance
+Mortal Grief
+Mortal Set
+Eber's Key
+Yriel's Key
+Inya's Key
+Volkuur's Key
+Pale Court Set
+Fragment of the Phoenix
+Fragment of the Minotaur
+Fragment of the Chimera
+Fragment of the Hydra
+Key to the Crucible
+Fragment of Enslavement
+Fragment of Eradication
+Fragment of Constriction
+Fragment of Purification
+Key to Decay
+Fragment of Terror
+Fragment of Emptiness
+Fragment of Shape
+Fragment of Knowledge
+Maddening Object
+Al-Hezmin's Crest
+Baran's Crest
+Drox's Crest
+Veritania's Crest
+Crest of the Elderslayers
+Divine Vessel
+Breachstone
+Xoph's Breachstone
+Tul's Breachstone
+Esh's Breachstone
+Uul-Netol's Breachstone
+Chayula's Breachstone
+Xoph's Charged Breachstone
+Tul's Charged Breachstone
+Esh's Charged Breachstone
+Uul-Netol's Charged Breachstone
+Chayula's Charged Breachstone
+Xoph's Enriched Breachstone
+Tul's Enriched Breachstone
+Esh's Enriched Breachstone
+Uul-Netol's Enriched Breachstone
+Chayula's Enriched Breachstone
+Xoph's Pure Breachstone
+Tul's Pure Breachstone
+Esh's Pure Breachstone
+Uul-Netol's Pure Breachstone
+Chayula's Pure Breachstone
+Xoph's Flawless Breachstone
+Tul's Flawless Breachstone
+Esh's Flawless Breachstone
+Uul-Netol's Flawless Breachstone
+Chayula's Flawless Breachstone
+Timeless Karui Emblem
+Timeless Maraketh Emblem
+Timeless Eternal Emblem
+Timeless Templar Emblem
+Timeless Vaal Emblem
+Unrelenting Timeless Karui Emblem
+Unrelenting Timeless Maraketh Emblem
+Unrelenting Timeless Eternal Emblem
+Unrelenting Timeless Templar Emblem
+Unrelenting Timeless Vaal Emblem
+Simulacrum
+Offering to the Goddess
+Tribute to the Goddess
+Gift to the Goddess
+Dedication to the Goddess
+An Audience with the King
+Ancient Reliquary Key
+Timeworn Reliquary Key
+Vaal Reliquary Key
+Forgotten Reliquary Key
+Visceral Reliquary Key
+Shiny Reliquary Key
+Archive Reliquary Key
+Oubliette Reliquary Key
+Cosmic Reliquary Key
+Decaying Reliquary Key
+Voidborn Reliquary Key
+Voidborn Reliquary Key
+Blood-filled Vessel
+Mystery Leaguestone
+Whispering Incubator
+Fine Incubator
+Singular Incubator
+Cartographer's Incubator
+Otherworldly Incubator
+Abyssal Incubator
+Fragmented Incubator
+Skittering Incubator
+Infused Incubator
+Fossilised Incubator
+Kalguuran Incubator
+Diviner's Incubator
+Primal Incubator
+Enchanted Incubator
+Geomancer's Incubator
+Ornate Incubator
+Time-Lost Incubator
+Celestial Armoursmith's Incubator
+Celestial Blacksmith's Incubator
+Celestial Jeweller's Incubator
+Eldritch Incubator
+Obscured Incubator
+Foreboding Incubator
+Thaumaturge's Incubator
+Mysterious Incubator
+Gemcutter's Incubator
+Feral Incubator
+Blighted Incubator
+Morphing Incubator
+Maddening Incubator
+Whispering Incubator
+Fine Incubator
+Singular Incubator
+Cartographer's Incubator
+Otherworldly Incubator
+Abyssal Incubator
+Fragmented Incubator
+Skittering Incubator
+Infused Incubator
+Fossilised Incubator
+Kalguuran Incubator
+Diviner's Incubator
+Primal Incubator
+Enchanted Incubator
+Geomancer's Incubator
+Ornate Incubator
+Time-Lost Incubator
+Celestial Armoursmith's Incubator
+Celestial Blacksmith's Incubator
+Celestial Jeweller's Incubator
+Eldritch Incubator
+Obscured Incubator
+Foreboding Incubator
+Thaumaturge's Incubator
+Mysterious Incubator
+Gemcutter's Incubator
+Feral Incubator
+Blighted Incubator
+Morphing Incubator
+Maddening Incubator
+Captured Soul of Puruna, the Challenger
+Captured Soul of Captain Tanner Lightfoot
+Captured Soul of Pirate Treasure
+Captured Soul of Maligaro the Mutilator
+Captured Soul of Hybrid Widow
+Captured Soul of Queen of the Great Tangle
+Captured Soul of a Redblade Warlord
+Captured Soul of The Infernal King
+Captured Soul of Jorus, Sky's Edge
+Captured Soul of Sebbert, Crescent's Point
+Captured Soul of Khor, Sister of Shadows
+Captured Soul of Captain Clayborne, The Accursed
+Captured Soul of Megaera
+Captured Soul of Erebix, Light's Bane
+Captured Soul of Varhesh, Shimmering Aberration
+Captured Soul of Terror of the Infinite Drifts
+Captured Soul of Tahsin, Warmaker
+Captured Soul of Drek, Apex Hunter
+Captured Soul of Stalker of the Endless Dunes
+Captured Soul of Gorulis, Will-Thief
+Archon Kite Shield Piece
+Archon Kite Shield Piece
+Archon Kite Shield Piece
+Archon Kite Shield Piece
+Legion Sword Piece
+Legion Sword Piece
+Legion Sword Piece
+Imperial Staff Piece
+Imperial Staff Piece
+Imperial Staff Piece
+Cloth Belt Piece
+Cloth Belt Piece
+Blunt Arrow Quiver Piece
+Blunt Arrow Quiver Piece
+Blunt Arrow Quiver Piece
+Callous Mask Piece
+Callous Mask Piece
+Callous Mask Piece
+Ultimatum Aspect
+Ultimatum Aspect
+Ultimatum Aspect
+Ultimatum Aspect
+Rusted Breach Scarab
+Polished Breach Scarab
+Gilded Breach Scarab
+Winged Breach Scarab
+Rusted Cartography Scarab
+Polished Cartography Scarab
+Gilded Cartography Scarab
+Winged Cartography Scarab
+Rusted Reliquary Scarab
+Polished Reliquary Scarab
+Gilded Reliquary Scarab
+Winged Reliquary Scarab
+Rusted Bestiary Scarab
+Polished Bestiary Scarab
+Gilded Bestiary Scarab
+Winged Bestiary Scarab
+Farric Lure
+Saqawine Lure
+Fenumal Lure
+Craicic Lure
+Rusted Shaper Scarab
+Polished Shaper Scarab
+Gilded Shaper Scarab
+Winged Shaper Scarab
+Rusted Elder Scarab
+Polished Elder Scarab
+Gilded Elder Scarab
+Winged Elder Scarab
+Rusted Sulphite Scarab
+Polished Sulphite Scarab
+Gilded Sulphite Scarab
+Winged Sulphite Scarab
+Rusted Divination Scarab
+Polished Divination Scarab
+Gilded Divination Scarab
+Winged Divination Scarab
+Rusted Torment Scarab
+Polished Torment Scarab
+Gilded Torment Scarab
+Winged Torment Scarab
+Rusted Ambush Scarab
+Polished Ambush Scarab
+Gilded Ambush Scarab
+Winged Ambush Scarab
+Rusted Harbinger Scarab
+Polished Harbinger Scarab
+Gilded Harbinger Scarab
+Winged Harbinger Scarab
+Rusted Expedition Scarab
+Polished Expedition Scarab
+Gilded Expedition Scarab
+Winged Expedition Scarab
+Rusted Legion Scarab
+Polished Legion Scarab
+Gilded Legion Scarab
+Winged Legion Scarab
+Rusted Metamorph Scarab
+Polished Metamorph Scarab
+Gilded Metamorph Scarab
+Winged Metamorph Scarab
+Rusted Blight Scarab
+Polished Blight Scarab
+Gilded Blight Scarab
+Winged Blight Scarab
+Rusted Abyss Scarab
+Polished Abyss Scarab
+Gilded Abyss Scarab
+Winged Abyss Scarab
+Distilled Ire
+Distilled Guilt
+Distilled Greed
+Distilled Paranoia
+Distilled Envy
+Distilled Disgust
+Distilled Despair
+Distilled Fear
+Distilled Suffering
+Distilled Isolation
+Ivory Watchstone
+Crimson Watchstone
+Crimson Watchstone
+Crimson Watchstone
+Crimson Watchstone
+Crimson Watchstone
+Crimson Watchstone
+Crimson Watchstone
+Crimson Watchstone
+Cobalt Watchstone
+Cobalt Watchstone
+Cobalt Watchstone
+Cobalt Watchstone
+Cobalt Watchstone
+Cobalt Watchstone
+Cobalt Watchstone
+Cobalt Watchstone
+Viridian Watchstone
+Viridian Watchstone
+Viridian Watchstone
+Viridian Watchstone
+Viridian Watchstone
+Viridian Watchstone
+Viridian Watchstone
+Viridian Watchstone
+Golden Watchstone
+Golden Watchstone
+Golden Watchstone
+Golden Watchstone
+Golden Watchstone
+Golden Watchstone
+Golden Watchstone
+Golden Watchstone
+Ceremonial Voidstone
+Decayed Voidstone
+Grasping Voidstone
+Omniscient Voidstone
+Crusader's Exalted Orb
+Redeemer's Exalted Orb
+Hunter's Exalted Orb
+Warlord's Exalted Orb
+Awakener's Orb
+Ethereal Blade
+Rogue's Marker
+Contract: Bunker
+Contract: Smuggler's Den
+Contract: Laboratory
+Contract: Repository
+Contract: Prohibited Library
+Contract: Tunnels
+Contract: Underbelly
+Contract: Records Office
+Contract: Mansion
+Blueprint: Bunker
+Blueprint: Smuggler's Den
+Blueprint: Laboratory
+Blueprint: Repository
+Blueprint: Prohibited Library
+Blueprint: Tunnels
+Blueprint: Underbelly
+Blueprint: Records Office
+Blueprint: Mansion
+[UNUSED] Heist Test Weapon
+[UNUSED] Heist Test Tool
+[UNUSED] Heist Test Utility Equipment
+[UNUSED] Heist Test Reward Equipment
+Contract: Trial Run
+Contract: Stolen Lockpicks
+Contract: Karst's Revenge
+Contract: Credit Where Credit's Due
+Contract: Finding Opal
+Contract: Opal's Jewels
+Contract: Enoch's Whereabouts
+Contract: Enoch's Remains
+Contract: Grocery List
+Contract: The Vinderi Bomb
+Contract: The Nameless Play
+Contract: The Finest Costumes
+Contract: The Wedding Dress
+Contract: Disengagement
+Contract: Rational Tools
+Contract: A Mundane Sample
+Contract: The Book of Jamanra
+Forbidden Contract
+Contract: Isla's Prototypes
+Contract: Isla's Designs
+Preventative Contract
+Contract: A Matter of Honour
+Contract: Flying False Colours
+Familial Contract
+Contract: Slaver's Revenge
+Contract: Follow the Paper Trail
+Vigilante Contract
+Contract: The Admiral's Records
+Contract: Findings for Fidium
+Naval Contract
+Contract: Hyrri's Gift
+Contract: The Negotiation
+Contract: The Rescue
+Vengeful Contract
+Torn Cloak
+Tattered Cloak
+Hooded Cloak
+Whisper-woven Cloak
+Silver Brooch
+Golden Brooch
+Enamel Brooch
+Foliate Brooch
+Simple Lockpick
+Standard Lockpick
+Fine Lockpick
+Master Lockpick
+Leather Bracers
+Studded Bracers
+Runed Bracers
+Steel Bracers
+Crude Sensing Charm
+Fine Sensing Charm
+Polished Sensing Charm
+Thaumaturgical Sensing Charm
+Voltaxic Flashpowder
+Trarthan Flashpowder
+Azurite Flashpowder
+Thaumetic Flashpowder
+Crude Ward
+Lustrous Ward
+Shining Ward
+Thaumaturgical Ward
+Essential Keyring
+Versatile Keyring
+Skeleton Keyring
+Grandmaster Keyring
+Eelskin Sole
+Foxhide Sole
+Winged Sole
+Silkweave Sole
+Basic Disguise Kit
+Theatre Disguise Kit
+Espionage Disguise Kit
+Regicide Disguise Kit
+Steel Drill
+Flanged Drill
+Sulphur Blowtorch
+Thaumetic Blowtorch
+Rough Sharpening Stone
+Standard Sharpening Stone
+Fine Sharpening Stone
+Obsidian Sharpening Stone
+Flanged Arrowhead
+Fragmenting Arrowhead
+Hollowpoint Arrowhead
+Precise Arrowhead
+Focal Stone
+Conduit Line
+Aggregator Charm
+Burst Band
+Urn of Farud
+Box of Tripyxis
+Incense of Keth
+Crest of Ezomyr
+Ez Myrae Tome
+Hand of Arimor
+Abberathine Horns
+Admiral Proclar's Pipe
+Alchemical Chalice
+Ogham Candelabra
+Tusked Hominid Skull
+Celestial Stone
+Urn of the Original Ashes
+Heart Coil
+Enigmatic Assembly A4
+Enigmatic Assembly B2
+Enigmatic Assembly C5
+Enigmatic Assembly D1
+Mirror of Teklatipitzi
+Bust of Emperor Caspiro
+Golden Hetzapal Idol
+Flask of Welakath
+Forbidden Lamp
+The Goddess of Water
+The Golden Ibis
+Impossible Crystal
+Living Ice
+Seal of Lunaris
+Golden Matatl Idol
+The Sea Pearl Heirloom
+Seal of Solaris
+Golden Napuatzi Idol
+Essence Burner
+Ancient Seal
+Blood of Innocence
+Dekhara's Resolve
+Orbala's Fifth Adventure
+Staff of the First Sin Eater
+Sword of the Inverse Relic
+Golden Slave Idol
+Golden Xoplotli Idol
+Ceremonial Goblet
+Crested Golden Idol
+Golden Ceremonial Mask
+Golden Prayer Idol
+Golden Grotesque
+Golden Sacrificial Glyph
+Karst's Lockpicks
+\The Kiss Goodnight\
+Poisoned Lockpick
+Census Records
+Tibbs' Wealth
+Blackguard Personnel Files
+Enoch's Tags
+Alchemical Supplies
+Fumarole Tar
+\The Nameless Play\
+Templar Uniforms
+Merveil's Wedding Dress
+Tullina's Engagement Ring
+The Thought Extractor
+Viridi's Finger
+The Book of Jamanra
+Jamanra, the Legendary Warrior
+Pile of Inexplicable Junk
+Baffling Blueprints
+The Unbreakable
+Solerai's Spear
+Nashta's War Journal
+Confront Nashta
+Hapihapi's Charm
+Slaver's Records
+The Blood Idol
+Admiral Darnaw's Papers
+Admiral Darnaw's Papers
+Fleet Orders
+Admiral Darnaw
+\O' Eternal\
+Negotiate with the Client
+Rescue Hana
+The Vox Twins
+Orb of Dominance
+The Maven's Beacon
+Flesh Compass
+Luminous Astrolabe
+Maven's Invitation: The Formed
+Maven's Invitation: The Twisted
+Maven's Invitation: The Forgotten
+Maven's Invitation: The Hidden
+Maven's Invitation: The Feared
+Maven's Invitation: The Elderslayers
+Maven's Invitation: The Atlas
+Maven's Invitation: The Atlas
+Maven's Invitation: The Atlas
+Maven's Invitation: The Atlas
+Maven's Invitation: The Atlas
+Maven's Invitation: Haewark Hamlet
+Maven's Invitation: Haewark Hamlet
+Maven's Invitation: Haewark Hamlet
+Maven's Invitation: Haewark Hamlet
+Maven's Invitation: Haewark Hamlet
+Maven's Invitation: Tirn's End
+Maven's Invitation: Tirn's End
+Maven's Invitation: Tirn's End
+Maven's Invitation: Tirn's End
+Maven's Invitation: Tirn's End
+Maven's Invitation: Lex Proxima
+Maven's Invitation: Lex Proxima
+Maven's Invitation: Lex Proxima
+Maven's Invitation: Lex Proxima
+Maven's Invitation: Lex Proxima
+Maven's Invitation: Lex Ejoris
+Maven's Invitation: Lex Ejoris
+Maven's Invitation: Lex Ejoris
+Maven's Invitation: Lex Ejoris
+Maven's Invitation: Lex Ejoris
+Maven's Invitation: New Vastir
+Maven's Invitation: New Vastir
+Maven's Invitation: New Vastir
+Maven's Invitation: New Vastir
+Maven's Invitation: New Vastir
+Maven's Invitation: Glennach Cairns
+Maven's Invitation: Glennach Cairns
+Maven's Invitation: Glennach Cairns
+Maven's Invitation: Glennach Cairns
+Maven's Invitation: Glennach Cairns
+Maven's Invitation: Valdo's Rest
+Maven's Invitation: Valdo's Rest
+Maven's Invitation: Valdo's Rest
+Maven's Invitation: Valdo's Rest
+Maven's Invitation: Valdo's Rest
+Maven's Invitation: Lira Arthain
+Maven's Invitation: Lira Arthain
+Maven's Invitation: Lira Arthain
+Maven's Invitation: Lira Arthain
+Maven's Invitation: Lira Arthain
+The Maven's Writ
+Crescent Splinter
+Chromium Haewark Hamlet Watchstone
+Chromium Tirn's End Watchstone
+Chromium Lex Proxima Watchstone
+Chromium Lex Ejoris Watchstone
+Chromium New Vastir Watchstone
+Chromium Glennach Cairns Watchstone
+Chromium Valdo's Rest Watchstone
+Chromium Lira Arthain Watchstone
+Platinum Haewark Hamlet Watchstone
+Platinum Tirn's End Watchstone
+Platinum Lex Proxima Watchstone
+Platinum Lex Ejoris Watchstone
+Platinum New Vastir Watchstone
+Platinum Glennach Cairns Watchstone
+Platinum Valdo's Rest Watchstone
+Platinum Lira Arthain Watchstone
+Titanium Haewark Hamlet Watchstone
+Titanium Tirn's End Watchstone
+Titanium Lex Proxima Watchstone
+Titanium Lex Ejoris Watchstone
+Titanium New Vastir Watchstone
+Titanium Glennach Cairns Watchstone
+Titanium Valdo's Rest Watchstone
+Titanium Lira Arthain Watchstone
+Chronicle of Atzoatl
+Inscribed Ultimatum
+Sacred Blossom
+Expedition Logbook
+Enkindling Orb
+Instilling Orb
+Exotic Coinage
+Broken Circle Artifact
+Black Scythe Artifact
+Order Artifact
+Sun Artifact
+Tainted Chromatic Orb
+Tainted Orb of Fusing
+Tainted Jeweller's Orb
+Tainted Chaos Orb
+Tainted Exalted Orb
+Tainted Mythic Orb
+Tainted Armourer's Scrap
+Tainted Blacksmith's Whetstone
+Tainted Divine Teardrop
+Energy Blade
+Energy Blade
+Eldritch Chaos Orb
+Eldritch Exalted Orb
+Eldritch Orb of Annulment
+Writhing Invitation
+Writhing Invitation
+Screaming Invitation
+Screaming Invitation
+Polaric Invitation
+Polaric Invitation
+Incandescent Invitation
+Incandescent Invitation
+Archnemesis Mod
+Singular Scouting Report
+Otherworldly Scouting Report
+Comprehensive Scouting Report
+Vaal Scouting Report
+Delirious Scouting Report
+Operative's Scouting Report
+Blighted Scouting Report
+Influenced Scouting Report
+Explorer's Scouting Report
+Oil Extractor
+Rusted Stalker Sentinel
+Bronze Stalker Sentinel
+Cobalt Stalker Sentinel
+Brimstone Stalker Sentinel
+Emberstone Stalker Sentinel
+Obsidian Stalker Sentinel
+Cryptic Stalker Sentinel
+Primeval Stalker Sentinel
+Ancient Stalker Sentinel
+Bronze Pandemonium Sentinel
+Cobalt Pandemonium Sentinel
+Brimstone Pandemonium Sentinel
+Emberstone Pandemonium Sentinel
+Obsidian Pandemonium Sentinel
+Cryptic Pandemonium Sentinel
+Primeval Pandemonium Sentinel
+Ancient Pandemonium Sentinel
+Bronze Apex Sentinel
+Cobalt Apex Sentinel
+Brimstone Apex Sentinel
+Emberstone Apex Sentinel
+Obsidian Apex Sentinel
+Cryptic Apex Sentinel
+Primeval Apex Sentinel
+Ancient Apex Sentinel
+Cosmic Apex Sentinel
+Power Core
+Transforming Power Core
+Amplifying Power Core
+Augmenting Power Core
+Armour Recombinator
+Weapon Recombinator
+Jewellery Recombinator
+Urn Relic
+Amphora Relic
+Vase Relic
+Seal Relic
+Coffer Relic
+Tapestry Relic
+Incense Relic
+Sanctified Relic
+Sanctified Relic
+Sanctified Relic
+Kirac's Memory
+Alva's Memory
+Niko's Memory
+Einhar's Memory
+Wild Crystallised Lifeforce
+Vivid Crystallised Lifeforce
+Primal Crystallised Lifeforce
+Sacred Crystallised Lifeforce
+Gold
+Djinn Barya
+Balbala's Barya
+Test of Strength Barya
+Test of Will Barya
+Test of Cunning Barya
+Test of Time Barya
+Bronze Key
+Silver Key
+Gold Key
+Bronze Key
+Silver Key
+Gold Key
+Shortsword
+Broadsword
+Vampiric Blade
+Scimitar
+Charred Shortsword
+Sickle Sword
+Falchion
+Treasured Blade
+Cutlass
+Runic Shortsword
+Messer
+Commander Sword
+Dark Blade
+Corroded Longsword
+Iron Greatsword
+Blessed Claymore
+Broad Greatsword
+Rippled Greatsword
+Arced Longsword
+Stone Greatsword
+Obsidian Greatsword
+Keen Greatsword
+Ancient Greatblade
+Flanged Greatblade
+Regalia Longsword
+Ultra Greatsword
+Dull Hatchet
+Hook Axe
+Bearded Axe
+Extended Cleaver
+Bandit Hatchet
+Crescent Axe
+Carving Hatchet
+Sacrificial Axe
+Boarding Hatchet
+Fury Cleaver
+Battle Axe
+Profane Cleaver
+Dread Hatchet
+Splitting Greataxe
+Light Halberd
+Executioner Greataxe
+Arched Greataxe
+Elegant Glaive
+Savage Greataxe
+Rending Halberd
+Jagged Greataxe
+Reaver Glaive
+Ember Greataxe
+Ceremonial Halberd
+Monument Greataxe
+Vile Greataxe
+Wooden Club
+Smithing Hammer
+Slim Mace
+Spiked Club
+Warpick
+Plated Mace
+Brigand Mace
+Construct Hammer
+Morning Star
+Jade Club
+Lumen Mace
+Execratus Hammer
+Torment Club
+Felled Greatclub
+Oak Greathammer
+Forge Maul
+Studded Greatclub
+Cultist Greathammer
+Temple Maul
+Leaden Greathammer
+Crumbling Maul
+Pointed Maul
+Totemic Greatclub
+Greatmace
+Precise Greathammer
+Giant Maul
+Hardwood Spear
+Ironhead Spear
+Hunting Spear
+Winged Spear
+War Spear
+Forked Spear
+Barbed Spear
+Broad Spear
+Crossblade Spear
+Seaglass Spear
+Sword Spear
+Striking Spear
+Helix Spear
+Crude Claw
+Pict Claw
+Wolfbone Claw
+Forked Claw
+Plated Claw
+Edged Claw
+Arced Claw
+Hooked Claw
+Razorglass Claw
+Sharktooth Claw
+Armoured Claw
+Piercing Claw
+Talon Claw
+Glass Shank
+Crone Knife
+Simple Dagger
+Skinning Knife
+Moon Dagger
+Engraved Knife
+Obsidian Dagger
+Bloodletting Dagger
+Mail Breaker
+Kris Knife
+Parrying Dagger
+Arcane Dirk
+Cinquedea
+Wrapped Quarterstaff
+Long Quarterstaff
+Gothic Quarterstaff
+Crackling Quarterstaff
+Crescent Quarterstaff
+Steelpoint Quarterstaff
+Slicing Quarterstaff
+Barrier Quarterstaff
+Hefty Quarterstaff
+Smooth Quarterstaff
+Anima Quarterstaff
+Graceful Quarterstaff
+Wyrm Quarterstaff
+Splintered Flail
+Chain Flail
+Holy Flail
+Iron Flail
+Twin Flail
+Slender Flail
+Stone Flail
+Ring Flail
+Guarded Flail
+Icicle Flail
+Tearing Flail
+Great Flail
+Abyssal Flail
+Withered Wand
+Bone Wand
+Attuned Wand
+Siphoning Wand
+Volatile Wand
+Galvanic Wand
+Acrid Wand
+Offering Wand
+Frigid Wand
+Torture Wand
+Critical Wand
+Primordial Wand
+Dueling Wand
+Ashen Staff
+Gelid Staff
+Voltaic Staff
+Spriggan Staff
+Pyrophyte Staff
+Chiming Staff
+Rending Staff
+Reaping Staff
+Icicle Staff
+Roaring Staff
+Paralysing Staff
+Cleric Staff
+Dark Staff
+Crude Bow
+Shortbow
+Warden Bow
+Recurve Bow
+Composite Bow
+Dualstring Bow
+Cultist Bow
+Zealot Bow
+Artillery Bow
+Tribal Bow
+Greatbow
+Double Limb Bow
+Heavy Bow
+Makeshift Crossbow
+Tense Crossbow
+Sturdy Crossbow
+Varnished Crossbow
+Dyad Crossbow
+Alloy Crossbow
+Bombard Crossbow
+Construct Crossbow
+Blackfire Crossbow
+Piercing Crossbow
+Cumbrous Crossbow
+Dedalian Crossbow
+Esoteric Crossbow
+Rattling Sceptre
+Stoic Sceptre
+Lupine Sceptre
+Omen Sceptre
+Ochre Sceptre
+Shrine Sceptre
+Shrine Sceptre
+Shrine Sceptre
+Devouring Sceptre
+Clasped Sceptre
+Devotional Sceptre
+Wrath Sceptre
+Aromatic Sceptre
+Pious Sceptre
+Hallowed Sceptre
+Clay Trap
+Clamping Trap
+Shrapnel Trap
+Urn Trap
+Incense Trap
+Bladed Trap
+Dart Trap
+Spike Trap
+Coiled Trap
+Lead Trap
+Medallion Trap
+Intricate Trap
+Refined Trap
+Rusted Cuirass
+Fur Plate
+Iron Cuirass
+Raider Plate
+Maraketh Cuirass
+Steel Plate
+Full Plate
+Vaal Cuirass
+Juggernaut Plate
+Chieftain Cuirass
+Colosseum Plate
+Champion Cuirass
+Glorious Plate
+Conqueror Plate
+Abyssal Cuirass
+Leather Vest
+Quilted Vest
+Pathfinder Coat
+Shrouded Vest
+Rhoahide Coat
+Studded Vest
+Scout's Vest
+Serpentscale Coat
+Corsair Vest
+Smuggler Coat
+Strider Vest
+Hardleather Coat
+Exquisite Vest
+Mail Coat
+Armoured Vest
+Tattered Robe
+Feathered Robe
+Hexer's Robe
+Bone Raiment
+Silk Robe
+Keth Raiment
+Votive Raiment
+Altar Robe
+Elementalist Robe
+Mystic Raiment
+Imperial Robe
+Plated Raiment
+Havoc Raiment
+Enlightened Robe
+Arcane Robe
+Chain Mail
+Rogue Armour
+Vagabond Armour
+Cloaked Mail
+Explorer Armour
+Scale Mail
+Knight Armour
+Ancestral Mail
+Lamellar Mail
+Gladiator Armour
+Heroic Armour
+Tournament Mail
+Tournament Mail
+Tournament Mail
+Slayer Armour
+Pilgrim Vestments
+Pelt Mantle
+Mail Vestments
+Shaman Mantle
+Ironclad Vestments
+Sacrificial Mantle
+Cleric Vestments
+Tideseer Mantle
+Gilded Vestments
+Venerated Mantle
+Revered Vestments
+Corvus Mantle
+Zenith Vestments
+Hermit Garb
+Waxed Jacket
+Marabout Garb
+Wayfarer Jacket
+Anchorite Garb
+Scalper's Jacket
+Scoundrel Jacket
+Ascetic Garb
+Clandestine Jacket
+Monastic Garb
+Torment Jacket
+Devout Garb
+Assassin Garb
+Rusted Greathelm
+Soldier Greathelm
+Wrapped Greathelm
+Spired Greathelm
+Elite Greathelm
+Warrior Greathelm
+Commander Greathelm
+Fierce Greathelm
+Dueling Greathelm
+Goliath Greathelm
+Guardian Greathelm
+Shabby Hood
+Felt Cap
+Lace Hood
+Swathed Cap
+Hunter Hood
+Viper Cap
+Corsair Cap
+Leatherbound Hood
+Velvet Cap
+Covert Hood
+Armoured Cap
+Twig Circlet
+Wicker Tiara
+Beaded Circlet
+Chain Tiara
+Feathered Tiara
+Gold Circlet
+Coral Circlet
+Jade Tiara
+Noble Circlet
+Twilight Tiara
+Magus Tiara
+Brimmed Helm
+Guarded Helm
+Visored Helm
+Cowled Helm
+Shielded Helm
+Closed Helm
+Decorated Helm
+Gallant Helm
+Iron Crown
+Horned Crown
+Cultist Crown
+Martyr Crown
+Heavy Crown
+Spiritbone Crown
+Lavish Crown
+Templar Crown
+Hewn Mask
+Face Mask
+Hooded Mask
+Veiled Mask
+Tribal Mask
+Solid Mask
+Shaded Mask
+Death Mask
+Stocky Mitts
+Riveted Mitts
+Tempered Mitts
+Bolstered Mitts
+Moulded Mitts
+Detailed Mitts
+Titan Mitts
+Grand Mitts
+Suede Bracers
+Firm Bracers
+Bound Bracers
+Sectioned Bracers
+Spined Bracers
+Fine Bracers
+Hardened Bracers
+Engraved Bracers
+Torn Gloves
+Sombre Gloves
+Stitched Gloves
+Jewelled Gloves
+Intricate Gloves
+Pauascale Gloves
+Embroidered Gloves
+Adorned Gloves
+Ringmail Gauntlets
+Layered Gauntlets
+Doubled Gauntlets
+Plate Gauntlets
+Burnished Gauntlets
+Ornate Gauntlets
+Rope Cuffs
+Aged Cuffs
+Goldcast Cuffs
+Diviner Cuffs
+Righteous Cuffs
+Signet Cuffs
+Gauze Wraps
+Linen Wraps
+Spiral Wraps
+Buckled Wraps
+Furtive Wraps
+Utility Wraps
+Rough Greaves
+Iron Greaves
+Bronze Greaves
+Trimmed Greaves
+Stone Greaves
+Reefsteel Greaves
+Monument Greaves
+Totemic Greaves
+Rawhide Boots
+Laced Boots
+Embossed Boots
+Steeltoe Boots
+Lizardscale Boots
+Flared Boots
+Leatherplate Boots
+Embroidered Boots
+Straw Sandals
+Wrapped Sandals
+Lattice Sandals
+Silk Slippers
+Feathered Sandals
+Flax Sandals
+Studded Sandals
+Elaborate Sandals
+Mail Sabatons
+Braced Sabatons
+Stacked Sabatons
+Covered Sabatons
+Flexile Sabatons
+Bold Sabatons
+Padded Leggings
+Secured Leggings
+Pelt Leggings
+Weaver Leggings
+Gilt Leggings
+Pious Leggings
+Frayed Shoes
+Threaded Shoes
+Hunting Shoes
+Steelpoint Shoes
+Velour Shoes
+Bladed Shoes
+Splintered Tower Shield
+Painted Tower Shield
+Braced Tower Shield
+Barricade Tower Shield
+Effigial Tower Shield
+Rampart Tower Shield
+Heraldric Tower Shield
+Stone Tower Shield
+Crucible Tower Shield
+Ancestor Tower Shield
+Phalanx Tower Shield
+Defiant Tower Shield
+Blacksteel Tower Shield
+Hardwood Targe
+Pelage Targe
+Studded Targe
+Crescent Targe
+Chiseled Targe
+Feathered Targe
+Stratified Targe
+Carved Targe
+Mosaic Targe
+Aureate Targe
+Grand Targe
+Blazon Crest Shield
+Sigil Crest Shield
+Emblem Crest Shield
+Jingling Crest Shield
+Sectarian Crest Shield
+Omen Crest Shield
+Wayward Crest Shield
+Seer Crest Shield
+Stoic Crest Shield
+Empyreal Crest Shield
+Deified Crest Shield
+Leather Buckler
+Wooden Buckler
+Plated Buckler
+Iron Buckler
+Ridged Buckler
+Spiked Buckler
+Ringed Buckler
+Edged Buckler
+Laminate Buckler
+Pearl Buckler
+Ornate Buckler
+Array Buckler
+Aegis Buckler
+Twig Focus
+Woven Focus
+Antler Focus
+Engraved Focus
+Tonal Focus
+Crystal Focus
+Voodoo Focus
+Plumed Focus
+Jade Focus
+Paua Focus
+Elegant Focus
+Attuned Focus
+Magus Focus
+Broadhead Quiver
+Fire Quiver
+Sacral Quiver
+Two-Point Quiver
+Blunt Quiver
+Toxic Quiver
+Serrated Quiver
+Primed Quiver
+Penetrating Quiver
+Volant Quiver
+Visceral Quiver
+Crimson Amulet
+Azure Amulet
+Amber Amulet
+Jade Amulet
+Lapis Amulet
+Lunar Amulet
+Bloodstone Amulet
+Stellar Amulet
+Solar Amulet
+Gold Amulet
+Iron Ring
+Lazuli Ring
+Ruby Ring
+Sapphire Ring
+Topaz Ring
+Amethyst Ring
+Emerald Ring
+Pearl Ring
+Prismatic Ring
+Gold Ring
+Unset Ring
+Rawhide Belt
+Linen Belt
+Wide Belt
+Long Belt
+Plate Belt
+Ornate Belt
+Mail Belt
+Double Belt
+Heavy Belt
+Utility Belt
+Fine Belt
+Lesser Life Flask
+Medium Life Flask
+Greater Life Flask
+Grand Life Flask
+Giant Life Flask
+Colossal Life Flask
+Gargantuan Life Flask
+Transcendent Life Flask
+Ultimate Life Flask
+Lesser Mana Flask
+Medium Mana Flask
+Greater Mana Flask
+Grand Mana Flask
+Giant Mana Flask
+Colossal Mana Flask
+Gargantuan Mana Flask
+Transcendent Mana Flask
+Ultimate Mana Flask
+Thawing Charm
+Staunching Charm
+Antidote Charm
+Dousing Charm
+Grounding Charm
+Stone Charm
+Silver Charm
+Ruby Charm
+Sapphire Charm
+Topaz Charm
+Amethyst Charm
+Golden Charm
+Ring
+Garment
+Grand Regalia
+Grand Visage
+Grand Manchettes
+Grand Cuisses
+Breach Ring
+Random One Handed Sword
+Random Two Handed Sword
+Random One Handed Axe
+Random Two Handed Axe
+Random One Handed Mace
+Random Two Handed Mace
+Random Spear
+Random Claw
+Random Dagger
+Random Quarterstaff
+Random Flail
+Random Wand
+Random Staff
+Random Bow
+Random Crossbow
+Random Sceptre
+Random Trap
+Random Body Armour
+Random Body Armour
+Random Body Armour
+Random Body Armour
+Random Body Armour
+Random Body Armour
+Random Helmet
+Random Helmet
+Random Helmet
+Random Helmet
+Random Helmet
+Random Helmet
+Random Gloves
+Random Gloves
+Random Gloves
+Random Gloves
+Random Gloves
+Random Gloves
+Random Boots
+Random Boots
+Random Boots
+Random Boots
+Random Boots
+Random Boots
+Random Shield
+Random Shield
+Random Shield
+Random Buckler
+Random Focus
+Random Quiver
+Random Amulet
+Random Ring
+Random Belt
+Advanced Smithing Hammer
+Advanced Slim Mace
+Advanced Warpick
+Advanced Plated Mace
+Advanced Brigand Mace
+Advanced Construct Hammer
+Advanced Oak Greathammer
+Advanced Forge Maul
+Advanced Cultist Greathammer
+Advanced Temple Maul
+Advanced Leaden Greathammer
+Advanced Crumbling Maul
+Advanced Long Quarterstaff
+Advanced Gothic Quarterstaff
+Advanced Crackling Quarterstaff
+Advanced Crescent Quarterstaff
+Advanced Slicing Quarterstaff
+Advanced Barrier Quarterstaff
+Advanced Shortbow
+Advanced Warden Bow
+Advanced Composite Bow
+Advanced Dualstring Bow
+Advanced Cultist Bow
+Advanced Zealot Bow
+Advanced Tense Crossbow
+Advanced Sturdy Crossbow
+Advanced Varnished Crossbow
+Advanced Dyad Crossbow
+Advanced Bombard Crossbow
+Advanced Forlorn Crossbow
+Advanced Fur Plate
+Advanced Iron Cuirass
+Advanced Maraketh Cuirass
+Advanced Steel Plate
+Advanced Full Plate
+Advanced Vaal Cuirass
+Advanced Quilted Vest
+Advanced Pathfinder Coat
+Advanced Rhoahide Coat
+Advanced Studded Vest
+Advanced Scout's Vest
+Advanced Serpentscale Coat
+Advanced Feathered Robe
+Advanced Hexer's Robe
+Advanced Silk Robe
+Advanced Keth Raiment
+Advanced Votive Raiment
+Advanced Altar Robe
+Advanced Chain Mail
+Advanced Rogue Armour
+Advanced Vagabond Armour
+Advanced Cloaked Mail
+Advanced Explorer Armour
+Advanced Scale Mail
+Advanced Pilgrim Vestments
+Advanced Pelt Mantle
+Advanced Mail Vestments
+Advanced Shaman Mantle
+Advanced Ironclad Vestments
+Advanced Sacrificial Mantle
+Advanced Hermit Garb
+Advanced Waxed Jacket
+Advanced Marabout Garb
+Advanced Wayfarer Jacket
+Advanced Anchorite Garb
+Advanced Scalper's Jacket
+Advanced Rusted Greathelm
+Advanced Soldier Greathelm
+Advanced Wrapped Greathelm
+Advanced Spired Greathelm
+Advanced Elite Greathelm
+Advanced Shabby Hood
+Advanced Felt Cap
+Advanced Lace Hood
+Advanced Swathed Cap
+Advanced Hunter Hood
+Advanced Twig Circlet
+Advanced Wicker Tiara
+Advanced Beaded Circlet
+Advanced Chain Tiara
+Advanced Feathered Tiara
+Advanced Brimmed Helm
+Advanced Guarded Helm
+Advanced Visored Helm
+Advanced Cowled Helm
+Advanced Shielded Helm
+Advanced Iron Crown
+Advanced Horned Crown
+Advanced Cultist Crown
+Advanced Martyr Crown
+Advanced Heavy Crown
+Advanced Hewn Mask
+Advanced Face Mask
+Advanced Hooded Mask
+Advanced Veiled Mask
+Advanced Tribal Mask
+Advanced Riveted Mitts
+Advanced Tempered Mitts
+Advanced Bolstered Mitts
+Advanced Moulded Mitts
+Advanced Firm Bracers
+Advanced Bound Bracers
+Advanced Sectioned Bracers
+Advanced Spined Bracers
+Advanced Sombre Gloves
+Advanced Stitched Gloves
+Advanced Jewelled Gloves
+Advanced Intricate Gloves
+Advanced Ringmail Gauntlets
+Advanced Layered Gauntlets
+Advanced Doubled Gauntlets
+Advanced Rope Cuffs
+Advanced Aged Cuffs
+Advanced Goldcast Cuffs
+Advanced Gauze Wraps
+Advanced Linen Wraps
+Advanced Spiral Wraps
+Advanced Iron Greaves
+Advanced Bronze Greaves
+Advanced Trimmed Greaves
+Advanced Stone Greaves
+Advanced Laced Boots
+Advanced Embossed Boots
+Advanced Steeltoe Boots
+Advanced Lizardscale Boots
+Advanced Wrapped Sandals
+Advanced Lattice Sandals
+Advanced Silk Slippers
+Advanced Feathered Sandals
+Advanced Mail Sabatons
+Advanced Braced Sabatons
+Advanced Stacked Sabatons
+Advanced Padded Leggings
+Advanced Secured Leggings
+Advanced Pelt Leggings
+Advanced Frayed Shoes
+Advanced Threaded Shoes
+Advanced Hunting Shoes
+Advanced Painted Tower Shield
+Advanced Braced Tower Shield
+Advanced Effigial Tower Shield
+Advanced Rampart Tower Shield
+Advanced Heraldric Tower Shield
+Advanced Stone Tower Shield
+Advanced Hardwood Targe
+Advanced Pelage Targe
+Advanced Studded Targe
+Advanced Crescent Targe
+Advanced Chiseled Targe
+Advanced Feathered Targe
+Advanced Blazon Crest Shield
+Advanced Sigil Crest Shield
+Advanced Emblem Crest Shield
+Advanced Jingling Crest Shield
+Advanced Sectarian Crest Shield
+Advanced Omen Crest Shield
+Advanced Wooden Buckler
+Advanced Plated Buckler
+Advanced Ridged Buckler
+Advanced Spiked Buckler
+Advanced Ringed Buckler
+Advanced Edged Buckler
+Advanced Woven Focus
+Advanced Antler Focus
+Advanced Tonal Focus
+Advanced Crystal Focus
+Advanced Voodoo Focus
+Advanced Plumed Focus
+Expert Iron Cuirass
+Expert Steel Plate
+Expert Vaal Cuirass
+Expert Pathfinder Coat
+Expert Studded Vest
+Expert Serpentscale Coat
+Expert Hexer's Robe
+Expert Keth Raiment
+Expert Altar Robe
+Expert Rogue Armour
+Expert Cloaked Mail
+Expert Cloaked Mail
+Expert Cloaked Mail
+Expert Scale Mail
+Expert Pelt Mantle
+Expert Shaman Mantle
+Expert Sacrificial Mantle
+Expert Waxed Jacket
+Expert Wayfarer Jacket
+Expert Scalper's Jacket
+Expert Soldier Greathelm
+Expert Spired Greathelm
+Expert Elite Greathelm
+Expert Felt Cap
+Expert Swathed Cap
+Expert Hunter Hood
+Expert Wicker Tiara
+Expert Chain Tiara
+Expert Feathered Tiara
+Expert Guarded Helm
+Expert Cowled Helm
+Expert Shielded Helm
+Expert Horned Crown
+Expert Martyr Crown
+Expert Heavy Crown
+Expert Face Mask
+Expert Veiled Mask
+Expert Tribal Mask
+Expert Riveted Mitts
+Expert Bolstered Mitts
+Expert Moulded Mitts
+Expert Firm Bracers
+Expert Sectioned Bracers
+Expert Spined Bracers
+Expert Sombre Gloves
+Expert Jewelled Gloves
+Expert Intricate Gloves
+Expert Ringmail Gauntlets
+Expert Layered Gauntlets
+Expert Doubled Gauntlets
+Expert Rope Cuffs
+Expert Aged Cuffs
+Expert Goldcast Cuffs
+Expert Gauze Wraps
+Expert Linen Wraps
+Expert Spiral Wraps
+Expert Iron Greaves
+Expert Trimmed Greaves
+Expert Stone Greaves
+Expert Laced Boots
+Expert Steeltoe Boots
+Expert Lizardscale Boots
+Expert Wrapped Sandals
+Expert Silk Slippers
+Expert Feathered Sandals
+Expert Mail Sabatons
+Expert Braced Sabatons
+Expert Stacked Sabatons
+Expert Padded Leggings
+Expert Secured Leggings
+Expert Pelt Leggings
+Expert Frayed Shoes
+Expert Threaded Shoes
+Expert Hunting Shoes
+Expert Braced Tower Shield
+Expert Rampart Tower Shield
+Expert Stone Tower Shield
+Expert Pelage Targe
+Expert Crescent Targe
+Expert Feathered Targe
+Expert Sigil Crest Shield
+Expert Jingling Crest Shield
+Expert Omen Crest Shield
+Expert Plated Buckler
+Expert Spiked Buckler
+Expert Edged Buckler
+Expert Antler Focus
+Expert Crystal Focus
+Expert Plumed Focus
+Expert Slim Mace
+Expert Plated Mace
+Expert Smithing Hammer
+Expert Warpick
+Expert Construct Hammer
+Expert Brigand Mace
+Expert Forge Maul
+Expert Temple Maul
+Expert Oak Greathammer
+Expert Cultist Greathammer
+Expert Crumbling Maul
+Expert Leaden Greathammer
+Expert Gothic Quarterstaff
+Expert Crescent Quarterstaff
+Expert Long Quarterstaff
+Expert Crackling Quarterstaff
+Expert Barrier Quarterstaff
+Expert Slicing Quarterstaff
+Expert Shortbow
+Expert Composite Bow
+Expert Warden Bow
+Expert Dualstring Bow
+Expert Cultist Bow
+Expert Zealot Bow
+Expert Sturdy Crossbow
+Expert Varnished Crossbow
+Expert Tense Crossbow
+Expert Dyad Crossbow
+Expert Bombard Crossbow
+Expert Forlorn Crossbow
+Una's Lute
+Runed Spikes
+Head of the Winter Wolf
+Candlemass' Essence
+Candlemass' Essence
+Vagrant's Brew
+Runed Girdle
+Runed Guard
+Runed Skull Cap
+Asinia's Memorial Key Piece
+Draven's Memorial Key Piece
+Count Lachlann's Ring
+Ancestral Steel
+Book of Specialisation
+Book of Specialisation
+[DNT] Scarecrow Drop
+Gembloom Skull
+Smithing Tools
+[DNT] Guillotine Executioner Drop
+[DNT] Gargoyle Golem Drop
+The Horn of the Vastiri
+Book of Specialisation
+[DNT] Bone Cultist Shield Boss Drop
+Mastodon Tusks
+The Flame Ruby
+The Essence of Water
+Kabala Clan Relic
+Sun Clan Relic
+Sigil of the Third Pact
+Maggot Husk
+Stitched Bladder
+Gas Filled Bladder
+Burning Heart
+Empty Decanter Djinnus
+Full Decanter Djinnus
+Final Letter
+Book of Specialisation
+Gemrot Skull
+[DNT] Dredge Fiend Shaman Boss Drop
+[DNT] Quadrilla Boss Drop
+Book of Specialisation
+Book of Specialisation
+[DNT] Viper Napuatzi Drop
+Venom Draught of Stone
+Venom Draught of the Veil
+Venom Draught of Clarity
+Venom Draught of the Lost
+Venom Draught of the Sky
+Venom Draught of the Marshes
+Corpse-snake Venom
+Small Soul Core
+Small Soul Core
+Small Soul Core
+Small Soul Core
+Medium Soul Core
+Medium Soul Core
+Large Soul Core
+The Flame Core
+Temple Door Idol
+Ignagduk's Ghastly Spear
+[DNT] Eel Monster Boss Drop
+The Hammer of Kamasa
+Frost Core
+Frost Core
+Golden Idol
+Grand Idol
+Glorious Idol
+Exquisite Idol
+Elegant Idol
+Exceptional Idol
+Sacrificial Dagger
+[DNT] Vaal Sun Worshipper Boss Drop
+[DNT] Vaal Blood Priestess Boss Drop
+Sacrificial Heart
+Gemcrust Skull
+Glacial Cascade
+Comet
+[DNT] Blade Nova
+[DNT] Flame Slice
+[DNT] RingOfBlades
+[DNT] Combo Knife Throw
+[DNT] Triple Slash Combo
+[DNT] Hyper Slash
+[DNT] Shadow Dash
+[DNT] Shadow Ambush
+Consecrate
+Ripwire Ballista
+Mana Tempest
+Uncut Skill Gem
+Uncut Skill Gem
+Uncut Support Gem
+Killing Palm
+Shattering Palm
+Volcano
+Summon Wolf
+[DNT] Spinning Throw
+Spiral Volley
+[DNT] Dodge Roll
+[DNT] Shadow Thief Slash
+[DNT] Leaping Axe Catch
+[DNT] Storm Blade
+[DNT] Plunging Blade
+[DNT] Howl
+[DNT] Spiral Throw
+[DNT] Leaping Claw
+Lightning Bolt
+Rampage
+Enervation
+Unleash
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Convention Treasure
+Lightning Storm
+Chance to Freeze
+Essence Harvest
+Furious Slam
+Ferocious Roar
+Cast on Shock
+Invocation
+Cast on Freeze
+Cast on Ignite
+Cast on Melee Kill
+Cast on Death
+Cast on Critical
+Cast when Stunned
+Cast when Damage Taken
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Coming Soon
+Barrier Invocation
+Cast on Dodge
+Cast while Channelling
+Cast on Melee Stun
+Lingering Illusion
+Ghost Dance
+Bind Spectre
+[DNT] Dominating Aura
+Shroud
+Summon Companion
+Ancestral Warrior Totem
+[DNT] Meta Spell Totem
+[DNT] Meta Bow Totem
+Pain Offering
+[DNT] Bind Spectre Token
+Tempest Flurry
+Staggering Palm
+Charged Staff
+Siphoning Strike
+Tempest Bell
+Frozen Locus
+Bonestorm
+Bone Cage
+Spreading Frost
+Pinpoint Critical
+Unearth
+Detonating Arrow
+Poisonburst Arrow
+Toxic Growth
+Stormcaller Arrow
+Lightning Rod
+Snipe
+Gas Arrow
+Solar Orb
+Fireball
+Electrocuting Arrow
+Cold Snap
+Perfect Strike
+Raise Shield
+Resonating Shield
+Mana Remnants
+Magma Barrier
+Freezing Shards
+Vine Arrow
+Summon Rhoa Mount
+Decompose
+Ignition
+Ruthless
+Unbreakable
+Lacerate
+Bludgeon
+Overpower
+Persistence
+Fast Forward
+Rage
+Lifetap
+Execute
+Searing Flame
+Behead
+Jagged Ground
+Exploit Weakness
+Impact Shockwave
+Fire Penetration
+Fire Exposure
+Enraged Warcry
+Fist of War
+Devastate
+Heavy Swing
+Life Thief
+Brutality
+Bloodlust
+Meat Shield
+Break Endurance
+Eternal Flame
+Infernal Legion
+Fire Infusion
+Inspiration
+Immolate
+Premeditation
+Raging Cry
+Demolisher
+Rageforged
+Armour Explosion
+Stomping Ground
+Corrupting Cry
+Deep Cuts
+Splinter
+Rupture
+Dazing Cry
+Primal Armament
+Vitality
+Herbalism
+Cannibalism
+Aftershock
+Conduction
+Pierce
+Scattershot
+Wind Wave
+Envenom
+Maim
+Blind
+Acceleration
+Deceleration
+Electrocute
+Overabundance
+Mobility
+Overcharge
+Perpetual Charge
+Pin
+Chain
+Lightning Penetration
+Lightning Exposure
+Second Wind
+Neural Overload
+Bursting Plague
+Deadly Herald
+Corrosion
+Infusion
+Lockdown
+Fork
+Mana Bounty
+Life Bounty
+Lasting Shock
+Lightning Infusion
+Life Drain
+Soul Drain
+Martial Tempo
+Bullseye
+Innervate
+Profusion
+Comorbidity
+Murderous Intent
+Momentum
+Crescendo
+Deadly Poison
+Window of Opportunity
+Swift Affliction
+Fusillade
+Combo Finisher
+Encumbrance
+Longshot
+Culling Strike
+Discombobulate
+Break Posture
+Ingenuity
+Precision
+Glaciation
+Energy Barrier
+Wildfire
+Frost Nexus
+Coursing Current
+Magnified Effect
+Concentrated Effect
+Spell Echo
+Unleash
+Ambush
+Biting Frost
+Withering Touch
+Hourglass
+Fortress
+Cold Penetration
+Cold Exposure
+Fiery Death
+Frozen Vortex
+Shock Siphon
+Frostfire
+Stormfire
+Inevitable Critical
+Elemental Discharge
+Mana Flare
+Hex Bloom
+Soul Thief
+Elemental Focus
+Elemental Army
+Minion Instability
+Deep Freeze
+Feeding Frenzy
+Arcane Surge
+Heightened Curse
+Corpse Conservation
+Cold Infusion
+Arcane Tempo
+Decaying Hex
+Focused Curse
+Ritualistic Curse
+Minion Pact
+Last Gasp
+Controlled Destruction
+Impending Doom
+Supercritical
+Ice Bite
+Chaos Infusion
+Fire Mastery
+Cold Mastery
+Lightning Mastery
+Chaos Mastery
+Physical Mastery
+Minion Mastery
+Chaotic Freeze
+Intense Agony
+Drain Ailments
+Hinder
+Spell Cascade
+Soulbreaker
+Cursed Ground
+Clarity
+Raging Spirits
+Red Mushroom
+Green Mushroom
+Blue Mushroom
+Ancient Crisis Fragment
+Faded Crisis Fragment
+Weathered Crisis Fragment
+Inscribed Ultimatum
+Chimeral Inscribed Ultimatum
+Cowardly Fate
+Deadly Fate
+Victorious Fate
+[DNT] Sandstorm Swipe
+Detonate Minion
+[DNT] Spear Mine
+[DNT] Spear Vortex
+[DNT] Infusing Strike
+Storm Surge
+Wind Dancer
+Profane Ritual
+Soul Offering
+Dark Effigy
+Skeletal Warrior
+Uncut Spirit Gem
+Grim Feast
+Cast on Minion Death
+Scavenged Plating
+Spinning Inferno
+Mana Drain
+Bone Blast
+Blink
+Molten Blast
+Malice
+Hydra Familiar
+Hammer of the Gods
+Living Bomb
+Stampede
+Shield Wall
+Shielding Cry
+Ember Fusillade
+High Velocity Rounds
+Fragmentation Rounds
+Siege Cascade
+Armour Piercing Rounds
+Explosive Shot
+Incendiary Shot
+Rapid Shot
+Glacial Bolt
+Permafrost Bolts
+Hailstorm Rounds
+Ice Shards
+Plasma Blast
+Galvanic Shards
+Stormblast Bolts
+Shockburst Rounds
+Punch
+Quarterstaff Strike
+Flail Strike
+Sword Slash
+Sword Slash
+Sword Slash
+Axe Slash
+Axe Slash
+Axe Slash
+Mace Strike
+Mace Strike
+Mace Strike
+Claw Stab
+Claw Stab
+Dagger Stab
+Dagger Stab
+Spear Stab
+Bow Shot
+Crossbow Shot
+Playtest Attack
+Playtest Slam
+Playtest Spell
+Shockchain Arrow
+Vaulting Impact
+Storm Wave
+Mantra of Destruction
+Life Remnants
+Explosive Concoction
+Fulminating Concoction
+Shattering Concoction
+Poisonous Concoction
+Bleeding Concoction
+Meditate
+Elemental Storm
+Unbound Avatar
+Summon Infernal Hound
+Time Freeze
+Time Snap
+Encase in Jade
+Sorcery Ward
+Breach Precursor Tablet
+Expedition Precursor Tablet
+Delirium Precursor Tablet
+Ritual Precursor Tablet
+Precursor Tablet
+Decompose
+Elemental Expression
+Ice Shot
+War Banner
+Defiance Banner
+Freezing Mark
+Voltaic Mark
+Hand of Chayula
+Temporal Rift
+Demon Form
+Time of Need
+Elemental Invocation
+Explosive Grenade
+Flash Grenade
+Oil Grenade
+Gas Grenade
+Voltaic Grenade
+Attrition
+Elemental Conflux
+Into the Breach
+Ancestral Spirits
+Emergency Reload
+Font of Blood
+Font of Mana
+Font of Rage
+Cluster Grenade
+Dread Banner
+Tornado Shot
+Omen of Refreshment
+Omen of Resurgence
+Omen of Amelioration
+Omen of Whittling
+Omen of Sinistral Erasure
+Omen of Dextral Erasure
+Omen of Sinistral Alchemy
+Omen of Dextral Alchemy
+Omen of Sinistral Coronation
+Omen of Dextral Coronation
+Omen of Corruption
+Omen of Greater Exaltation
+Omen of Sinistral Exaltation
+Omen of Dextral Exaltation
+Omen of Greater Annulment
+Omen of Sinistral Annulment
+Omen of Dextral Annulment
+Blink
+Charge Infusion
+Holy Descent
+Burning Inscription
+Shard Scavenger
+Double Barrel
+Auto Reload
+Ammo Conservation
+Nimble Reload
+Fresh Clip
+Sacrificial Lamb
+Overwhelming Presence
+Alchemist's Boon
+Reaper's Invocation
+Sacrifice
+Archmage
+Magnetic Salvo
+Freezing Salvo
+[DNT] Gas Cloud
+[DNT] Detonation
+Berserk
+Herald of Plague
+Withering Presence
+Inscribed Ultimatum
+Combat Frenzy
+Cast on Block
+Gathering Storm
+Upheaval
+Despoiler
+Ricochet
+Ancestral Urgency
+Long Fuse
+Payload
+Strip Away
+Ironwood
+Considered Casting
+Wildshards
+Icicle
+Glacier
+Heft
+Rising Tempest
+Extraction
+Astral Projection
+Practiced Combo
+Leverage
+Culmination
+Potential
+Expanse
+Excise
+Execrate
+Energy Retention
+Ferocity
+Ablation
+Danse Macabre
+Capacitor
+Impetus
+Ember Fusillade
+Spark
+Expanding Ground
+Lightning Bolt
