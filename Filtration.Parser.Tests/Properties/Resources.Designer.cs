@@ -19,7 +19,7 @@ namespace Filtration.Parser.Tests.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Resources {
@@ -83,7 +83,7 @@ namespace Filtration.Parser.Tests.Properties {
         ///    ItemLevel &gt; 50
         ///    Quality &gt;= 15
         ///    Rarity &gt; Magic
-        ///    Class &quot;Test Class 1&quot; &quot;Test Class 2&quot; &quot;Test Class  [rest of string was truncated]&quot;;.
+        ///    Class &quot;Test Class 1&quot; &quot;Test Class 2&quot; &quot;Test Class 3&quot; &quot;Test Class 4&quot; &quot;Tes [rest of string was truncated]&quot;;.
         /// </summary>
         public static string testscript {
             get {
@@ -97,24 +97,32 @@ namespace Filtration.Parser.Tests.Properties {
         ///#Script description
         ///#Script description
         ///
-        ///#Comment
-        ///#SomeComment
-        ///
         ///#Blockdescription
         ///Show	#Flasks - Endgame - Life/Mana - Divine/Eternal - Q10+ - Normal
         ///	Class &quot;Life Flasks&quot; &quot;Mana Flasks&quot;
         ///	Rarity Normal
-        ///	DropLevel &gt;= 60
-        ///	Quality &gt;= 10
         ///	SetFontSize 28
-        ///	SetTextColor 240 240 240	#Normal Item Highlight
         ///
-        ///#commentymccommentface
         ///    
-        ///Show	#Flasks - Endgame - Life/Mana - Divine/Eternal - Q10+ - Normal
+        ///    
+        ///# commentymccommentface
+        ///    
+        ///Show
         ///	Class &quot;Life Flasks&quot; &quot;Mana Flasks&quot;
         ///	Rarity Normal
-        ///	DropL [rest of string was truncated]&quot;;.
+        ///	DropLevel &gt;= 60
+        ///
+        ///#commment
+        ///#morecomment
+        ///#blah
+        ///
+        ///#anothercomment
+        ///
+        ///#notpartofblockdescription    
+        ///#blockdescription2
+        ///Show	#TestBlock
+        ///	Class &quot;Life Flasks&quot; &quot;Mana Flasks&quot;
+        ///	Rarity Normal	.
         /// </summary>
         public static string testscript2 {
             get {
@@ -140,7 +148,8 @@ namespace Filtration.Parser.Tests.Properties {
         ///#####Shows better currency differently from lower currency for efficiency
         ///##### skill gems
         ///Show
-        ///    Class &quot;Active Skill Gems&quot; &quot;Support Skil [rest of string was truncated]&quot;;.
+        ///    Class &quot;Active Skill Gems&quot; &quot;Support Skill Gems&quot;
+        ///	Quality  [rest of string was truncated]&quot;;.
         /// </summary>
         public static string ThioleItemFilter {
             get {

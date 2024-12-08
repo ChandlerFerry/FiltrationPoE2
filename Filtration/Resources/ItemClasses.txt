@@ -1,59 +1,84 @@
-Abyss Jewel
-Active Skill Gems
-Amulets
-Axes
-Belts
-Body Armours
-Boots
-Bows
-Claws
-Currency
-Daggers
-Delve Socketable Currency
-Delve Stackable Socketable Currency
-Divination Card
-Fishing Rods
-Flasks
-Gems
-Gloves
-Helmets
-Hybrid Flasks
-Incubator
-Incursion Item
-Jewel
-Labyrinth Item
-Labyrinth Map Item
-Labyrinth Trinket
-Large Relics
-Leaguestones
 Life Flasks
-Maces
 Mana Flasks
-Map Fragments
-Maps
-Medium Relics
-Misc Map Items
+Currency
+Amulets
+Rings
+Claws
+Daggers
+Wands
+One Hand Swords
 One Hand Axes
 One Hand Maces
-One Hand Swords
-Pantheon Soul
-Piece
-Quest Items
-Quivers
-Relics
-Rings
-Rune Dagger
-Sceptres
-Shields
-Small Relics
-Stackable Currency
+Bows
 Staves
-Support Skill Gems
-Swords
-Thrusting One Hand Swords
+Two Hand Swords
 Two Hand Axes
 Two Hand Maces
-Two Hand Swords
-Utility Flasks
-Wands
-Warstaff
+Skill Gems
+Support Gems
+Quivers
+Belts
+Gloves
+Boots
+Body Armours
+Helmets
+Shields
+Small Relics
+Medium Relics
+Large Relics
+Stackable Currency
+Quest Items
+Sceptres
+Charms
+Waystones
+Fishing Rods
+Map Fragments
+Hideout Doodads
+Microtransactions
+Jewels
+Divination Cards
+Misc Map Items
+Leaguestones
+Pantheon Souls
+Pieces
+Abyss Jewels
+Incursion Items
+Delve Socketable Currency
+Incubators
+Shards
+Shard Hearts
+Quarterstaves
+Delve Stackable Socketable Currency
+Atlas Upgrade Items
+Hidden Items
+Contracts
+Heist Gear
+Heist Tools
+Heist Cloaks
+Heist Brooches
+Blueprints
+Trinkets
+Heist Targets
+Expedition Logbooks
+Incubators
+Archnemesis Mods
+Spears
+Crossbows
+Foci
+Instance Local Items
+Sentinels
+Memories
+Flails
+Relics
+Sanctified Relics
+Breachstones
+Vault Keys
+Trial Coins
+Bucklers
+Traps
+Currency
+Inscribed Ultimatum
+Socketable
+Tablet
+Omen
+Pinnacle Keys
