@@ -19,7 +19,7 @@ namespace Filtration.ItemFilterPreview.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -71,7 +71,7 @@ namespace Filtration.ItemFilterPreview.Properties {
         ///
         ///###############################################################################
         ///### Overview ##################################################################
-        ///################## [rest of string was truncated]&quot;;.
+        ///############################ [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string muldini {
             get {
@@ -89,7 +89,7 @@ namespace Filtration.ItemFilterPreview.Properties {
         ///#	http://pastebin.com/Af00CbhA
         ///# Forum discussion thread. You can post question and feedback here:
         ///#	http://www.pathofexile.com/forum/view-thread/1246208/page/1
-        ///# Please use [rest of string was truncated]&quot;;.
+        ///# Please use this thr [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string neversinkfilter {
             get {

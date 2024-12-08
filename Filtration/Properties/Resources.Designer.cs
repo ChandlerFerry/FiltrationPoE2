@@ -19,7 +19,7 @@ namespace Filtration.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -205,6 +205,27 @@ namespace Filtration.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Armageddon Brand Attached Target Fire Penetration 1
+        ///Armageddon Brand Attached Target Fire Penetration 2
+        ///Armageddon Brand Repeat Frequency 1
+        ///Armageddon Brand Repeat Frequency 2
+        ///Enchantment Abyssal Cry Damage 1
+        ///Enchantment Abyssal Cry Damage 2
+        ///Enchantment Abyssal Cry Duration 1
+        ///Enchantment Abyssal Cry Duration 2
+        ///Enchantment Ancestor Warchief Area Of Effect 1
+        ///Enchantment Ancestor Warchief Area Of Effect 2
+        ///Enchantment Ancestor Warchief Melee Damage 1
+        ///Enchantment Ancestor Warchief Melee Damage 2
+        ///Enchantment Ance [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Enchantments {
+            get {
+                return ResourceManager.GetString("Enchantments", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
         internal static byte[] Fontin_SmallCaps {
@@ -225,35 +246,8 @@ namespace Filtration.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to A Dab of Ink
-        ///A Mother&apos;s Parting Gift
-        ///Abandoned Wealth
-        ///Aberrant Fossil
-        ///Abyssal Axe
-        ///Abyssal Cry
-        ///Abyssal Sceptre
-        ///Academy Map
-        ///Acid Caverns Map
-        ///Added Chaos Damage Support
-        ///Added Cold Damage Support
-        ///Added Fire Damage Support
-        ///Added Lightning Damage Support
-        ///Additional Accuracy Support
-        ///Advanced Traps Support
-        ///Aetheric Fossil
-        ///Agate Amulet
-        ///Albino Rhoa Feather
-        ///Alchemy Shard
-        ///Alder Spiked Shield
-        ///Alira&apos;s Amulet
-        ///Alleyways Map
-        ///Allflame
-        ///Alloyed Spiked Shield
-        ///Alteration Shard
-        ///Amber Amulet
-        ///Ambush Boots
-        ///Ambush Leaguestone
-        ///Ambush  [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to Orb of Transmutation
+        ///Orb of Augmentation.
         /// </summary>
         internal static string ItemBaseTypes {
             get {
@@ -262,8 +256,7 @@ namespace Filtration.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Abyss Jewel
-        ///Active Skill Gems
+        ///   Looks up a localized string similar to Skill Gems
         ///Amulets
         ///Axes
         ///Belts
@@ -273,21 +266,12 @@ namespace Filtration.Properties {
         ///Claws
         ///Currency
         ///Daggers
-        ///Delve Socketable Currency
-        ///Divination Card
-        ///Fishing Rods
         ///Flasks
         ///Gems
         ///Gloves
         ///Helmets
-        ///Hybrid Flasks
-        ///Incursion Item
         ///Jewel
-        ///Labyrinth Item
-        ///Labyrinth Map Item
-        ///Labyrinth Trinket
         ///Large Relics
-        ///Leaguestones
         ///Life Flasks
         ///Maces
         ///Mana Flasks
@@ -298,16 +282,26 @@ namespace Filtration.Properties {
         ///One Hand Axes
         ///One Hand Maces
         ///One Hand Swords
-        ///Pantheon Soul
         ///Piece
         ///Quest Items
         ///Quivers
         ///Relics
         ///Rings
+        ///Rune Dagger
         ///Sceptres
         ///Shields
         ///Small Relics
-        ///Stackable Curre [rest of string was truncated]&quot;;.
+        ///Stackable Currency
+        ///Staves
+        ///Support Skill Gems
+        ///Swords
+        ///Thrusting One Hand Swords
+        ///Two Hand Axes
+        ///Two Hand Maces
+        ///Two Hand Swords
+        ///Utility Flasks
+        ///Wands
+        ///Warstaff.
         /// </summary>
         internal static string ItemClasses {
             get {
@@ -316,63 +310,7 @@ namespace Filtration.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Abbot&apos;s
-        ///Abhorrent
-        ///Acrobat&apos;s
-        ///Adept&apos;s
-        ///Agile
-        ///Alchemist&apos;s
-        ///Alluring
-        ///Alpine
-        ///Ample
-        ///Anarchic
-        ///Anarchist&apos;s
-        ///Annealed
-        ///Antagonist&apos;s
-        ///Apprentice&apos;s
-        ///Aqua
-        ///Archmage&apos;s
-        ///Arcing
-        ///Arctic
-        ///Armadillo&apos;s
-        ///Arming
-        ///Armoured
-        ///Athlete&apos;s
-        ///Avalanching
-        ///Avenger&apos;s
-        ///Azure
-        ///Bandit&apos;s
-        ///Barbed
-        ///Battlemage&apos;s
-        ///Beating
-        ///Beautiful
-        ///Beetle&apos;s
-        ///Beryl
-        ///Betrayer&apos;s
-        ///Bipedal
-        ///Biting
-        ///Bitter
-        ///Blasting
-        ///Blazing
-        ///Blistering
-        ///Bloodthirsty
-        ///Blue
-        ///Blunt
-        ///Blurred
-        ///Boggart&apos;s
-        ///Bolting
-        ///Brawler&apos;s
-        ///Breathtaking
-        ///Brinerot
-        ///Brutal
-        ///Bubbling
-        ///Burning
-        ///Burnished
-        ///Butterfly&apos;s
-        ///Buttressed
-        ///Buzzing
-        ///Calming
-        ///Capric [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to .
         /// </summary>
         internal static string ItemMods {
             get {
@@ -381,25 +319,43 @@ namespace Filtration.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to A Gracious Master.
+        ///   Looks up a localized string similar to A Call into the Void
+        ///A Dishonourable Death
+        ///A Firm Foothold
+        ///A Forest of False Idols
+        ///A Gracious Master
+        ///A Master Seeks Help
+        ///A Prodigious Hand
+        ///A Regal Death
+        ///A Rift in Time
+        ///A Valuable Combination
+        ///A Vision of Ice and Fire
+        ///A Whispered Prayer
+        ///Abnormal Effulgence
+        ///Against the Tide
+        ///Agony at Dusk
+        ///An Unseen Peril
+        ///Anarchy&apos;s End
+        ///Anarchy&apos;s End I
+        ///Anarchy&apos;s End II
+        ///Anarchy&apos;s End III
+        ///Anarchy&apos;s End IV
+        ///Ancient Doom
+        ///Baptism by Death
+        ///Battle Hardened
+        ///Beyond Sight
+        ///Beyond Sight I
+        ///Beyond Sight II
+        ///Beyond Sight III
+        ///Beyond Sight IV
+        ///Black [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Prophecies {
             get {
                 return ResourceManager.GetString("Prophecies", resourceCulture);
             }
         }
-
-        /// <summary>
-        ///   Looks up a localized string similar to Enchantment Decree of Force.
-        /// </summary>
-        internal static string Enchantments
-        {
-            get
-            {
-                return ResourceManager.GetString("Enchantments", resourceCulture);
-            }
-        }
-
+        
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
